@@ -1,6 +1,6 @@
 ![imagen](images/CVPRW2021-banner.jpg)
 
-Held in conjunction with the [IEEE Conf. on Computer Vision and Pattern Recognition](http://cvpr2021.thecvf.com/) 2021.
+Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2021.thecvf.com/) 2021.
 
 **Welcome to the Third International Workshop on Event-Based Vision!**
 
