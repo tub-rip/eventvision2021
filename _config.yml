@@ -1,6 +1,10 @@
 theme: jekyll-theme-cayman
 title: CVPR 2021 Workshop on Event-based Vision
-author: Guillermo Gallego
-cover-img: "images/CVPRW2021-banner.jpg"
+cover-img: images/CVPRW2021-banner.jpg
 github: 
   is_project_page: false
+
+# About/contact
+author:
+  name:       Guillermo Gallego
+  url:        http://www.guillermogallego.es
