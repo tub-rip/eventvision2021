@@ -2,7 +2,7 @@
 
 **Welcome to the Third International Workshop on Event-Based Vision!**
 
-This workshop is held in conjunction with the IEEE Conference on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2021.thecvf.com/)) 2021.
+Held in conjunction with the **[IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2021.thecvf.com/)** 2021.
 
 ## Objectives
 
