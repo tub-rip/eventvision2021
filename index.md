@@ -1,8 +1,11 @@
-## Welcome to the Third International Workshop on Event-Based Vision
+**Welcome to the Third International Workshop on Event-Based Vision!**
+This workshop is held in conjunction with CVPR (Conference on Computer Vision and Pattern Recognition) 2021.
 
 ## Objectives
 
+<div style="text-align: justify">
 This workshop is dedicated to event-based cameras, smart cameras, and algorithms processing data from these sensors. Event-based cameras are bio-inspired sensors with the key advantages of microsecond temporal resolution, low latency, very high dynamic range, and low power consumption. Because of these advantages, event-based cameras open frontiers that are unthinkable with standard frame-based cameras (which have been the main sensing technology of the past 60 years). These revolutionary sensors enable the design of a new class of algorithms to track a baseball in the moonlight, build a flying robot with the agility of a fly, and perform structure from motion in challenging lighting conditions and at remarkable speeds. These sensors became commercially available in 2008 and are slowly being adopted in computer vision and robotics. In recent years they have received attention from large companies, e.g. the event-sensor company Prophesee collaborated with Intel and Bosch on a high spatial resolution sensor, Samsung announced mass production of a sensor to be used on hand-held devices, and they have been used used in various applications on neuromorphic chips such as IBM’s TrueNorth and Intel’s Loihi. The workshop also considers novel vision sensors, such as pixel processor arrays (PPAs), that perform massively parallel processing near the image plane. Because early vision computations are carried out on-sensor, the resulting systems have high speed and low-power consumption, enabling new embedded vision applications in areas such as robotics, AR/VR, automotive, gaming, surveillance, etc. This workshop will cover the sensing hardware, as well as the processing and learning methods needed to take advantage of the above-mentioned novel cameras.
+</div>
 
 ## Topics Covered
 - Event-based / neuromorphic vision.
@@ -33,7 +36,7 @@ The tentative schedule is the following:
 5. Final Panel Discussion
 
 ## Important Dates
-- Paper sumbission deadline: **March 27, 2021**. **[CMT Submission website](https://cmt3.research.microsoft.com/EVENTVISION2021)**
+- Paper sumbission deadline: **March 27, 2021**. **[Submission website](https://cmt3.research.microsoft.com/EVENTVISION2021)**
 - Demo abstract submission: March 27, 2021
 - Notification to authors: April 10th, 2021
 - Camera-ready paper: April 15th, 2021 (Exact date will be announced, as per CVPR website)
@@ -41,13 +44,23 @@ The tentative schedule is the following:
 
 ## Call for Papers
 
+<div style="text-align: justify">
 Research papers and demos are solicited in, but not limited to, the topics listed above.
-Paper submissions must adhere to the CVPR 2021 paper submission style, format, and length restrictions. See the [author guidelines](http://cvpr2021.thecvf.com/node/33) and [template](http://cvpr2021.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip) provided by the CVPR 2021 main conference. 
-A double blind peer-review process of the submissions received is handled via CMT. Accepted papers will be published open access through the Computer Vision Foundation (CVF) like in previous workshops (see [examples from CVPR 2019](https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision)).
+Paper submissions must adhere to the CVPR 2021 paper submission style, format and length restrictions. 
+See the [author guidelines](http://cvpr2021.thecvf.com/node/33) and [template](http://cvpr2021.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip) provided by the CVPR 2021 main conference. 
+A double blind peer-review process of the submissions received is carried out via CMT. 
+Accepted papers will be published open access through the Computer Vision Foundation (CVF) (see [examples from CVPR Workshop 2019](https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision)). 
+For the accepted papers we request that the authors write a paragraph about ethical considerations and impact of their work.
 
-### Courtesy presentations
-We also invite courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences. These presentations provide visibility to your work and help to build a community around the topics of the workshop. 
-Please contact the organizers and arrange to send us your prerecorded video.
+See also the policy of [Dual/Double Submissions of concurrently-reviewed conferences, such as ICCV'19](http://iccv2021.thecvf.com/node/4#policies). Authors may want to limit the submission to four pages (excluding references) for this matter.
+</div>
+
+### Courtesy presentations                 
+<div style="text-align: justify">
+We also invite courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences. 
+These presentations provide visibility to your work and help to build a community around the topics of the workshop. 
+Please contact the organizers to make arrangements to showcase your work at the workshop.
+</div>
 
 ## Organizers
 - [Guillermo Gallego](http://www.guillermogallego.es), Technische Universität Berlin, Germany.
