@@ -1,4 +1,5 @@
-**Welcome to the Third International Workshop on Event-Based Vision!**</br>
+**Welcome to the Third International Workshop on Event-Based Vision!**
+
 This workshop is held in conjunction with the IEEE Conference on Computer Vision and Pattern Recognition ([CVPR](cvpr2021.thecvf.com)) 2021.
 
 ## Objectives
@@ -45,24 +46,25 @@ The tentative schedule is the following:
 
 ## Call for Papers
 
-<div style="text-align: justify">
-Research papers and demos are solicited in, but not limited to, the topics listed above.
-Paper submissions must adhere to the CVPR 2021 paper submission style, format and length restrictions. 
-See the <a href="http://cvpr2021.thecvf.com/node/33">author guidelines</a> and <a href="http://cvpr2021.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip">template</a> provided by the CVPR 2021 main conference. 
-See also the policy of <a href="http://iccv2021.thecvf.com/node/4#policies">Dual/Double Submissions of concurrently-reviewed conferences, such as ICCV</a>. Authors may want to limit the submission to four pages (excluding references) if that is their case.
-</div>
+<p><div style="text-align: justify">
+  Research papers and demos are solicited in, but not limited to, the topics listed above.
+  Paper submissions must adhere to the CVPR 2021 paper submission style, format and length restrictions. 
+  See the <a href="http://cvpr2021.thecvf.com/node/33">author guidelines</a> and <a href="http://cvpr2021.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip">template</a> provided by the CVPR 2021 main conference.
+  See also the policy of <a href="http://iccv2021.thecvf.com/node/4#policies">Dual/Double Submissions of concurrently-reviewed conferences, such as ICCV</a>. 
+  Authors may want to limit the submission to four pages (excluding references) if that is their case.
+</div></p>
 
-<div style="text-align: justify">
-A double blind peer-review process of the submissions received is carried out via CMT.
-Accepted papers will be published open access through the Computer Vision Foundation (CVF) (see <a href="https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision">examples from CVPR Workshop 2019</a>). 
-For the accepted papers we request that the authors write a paragraph about ethical considerations and impact of their work.
-</div>
+<p><div style="text-align: justify">
+  A double blind peer-review process of the submissions received is carried out via CMT.
+  Accepted papers will be published open access through the Computer Vision Foundation (CVF) (see <a href="https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision">examples from CVPR Workshop 2019</a>).
+  For the accepted papers we request that the authors write a paragraph about ethical considerations and impact of their work.
+</div></p>
 
 ### Courtesy presentations                 
 <div style="text-align: justify">
-We also invite courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences. 
-These presentations provide visibility to your work and help to build a community around the topics of the workshop. 
-Please contact the organizers to make arrangements to showcase your work at the workshop.
+  We also invite courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences. 
+  These presentations provide visibility to your work and help to build a community around the topics of the workshop. 
+  Please contact the organizers to make arrangements to showcase your work at the workshop.
 </div>
 
 ## Organizers
