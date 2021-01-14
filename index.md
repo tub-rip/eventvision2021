@@ -1,10 +1,10 @@
 ![imagen](images/CVPRW2021-banner.jpg)
 
-**Welcome to the Third International Workshop on Event-Based Vision!**
-
-Held in conjunction with the **[IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2021.thecvf.com/)** 2021.
+Held in conjunction with the [IEEE Conf. on Computer Vision and Pattern Recognition](http://cvpr2021.thecvf.com/) 2021.
 
 ## Objectives
+
+**Welcome to the Third International Workshop on Event-Based Vision!**
 
 <div style="text-align: justify">
 This workshop is dedicated to event-based cameras, smart cameras, and algorithms processing data from these sensors. Event-based cameras are bio-inspired sensors with the key advantages of microsecond temporal resolution, low latency, very high dynamic range, and low power consumption. Because of these advantages, event-based cameras open frontiers that are unthinkable with standard frame-based cameras (which have been the main sensing technology of the past 60 years). These revolutionary sensors enable the design of a new class of algorithms to track a baseball in the moonlight, build a flying robot with the agility of a fly, and perform structure from motion in challenging lighting conditions and at remarkable speeds. These sensors became commercially available in 2008 and are slowly being adopted in computer vision and robotics. In recent years they have received attention from large companies, e.g. the event-sensor company Prophesee collaborated with Intel and Bosch on a high spatial resolution sensor, Samsung announced mass production of a sensor to be used on hand-held devices, and they have been used used in various applications on neuromorphic chips such as IBM’s TrueNorth and Intel’s Loihi. The workshop also considers novel vision sensors, such as pixel processor arrays (PPAs), that perform massively parallel processing near the image plane. Because early vision computations are carried out on-sensor, the resulting systems have high speed and low-power consumption, enabling new embedded vision applications in areas such as robotics, AR/VR, automotive, gaming, surveillance, etc. This workshop will cover the sensing hardware, as well as the processing and learning methods needed to take advantage of the above-mentioned novel cameras.
@@ -40,7 +40,7 @@ The tentative schedule is the following:
 5. Final Panel Discussion
 
 ## Important Dates
-- Paper sumbission deadline: **March 27, 2021**. **[Submission website](https://cmt3.research.microsoft.com/EVENTVISION2021)**
+- Paper sumbission deadline: **<span style="color:red">March 27, 2021</span>**. **[Submission website](https://cmt3.research.microsoft.com/EVENTVISION2021)**
 - Demo abstract submission: March 27, 2021
 - Notification to authors: April 10th, 2021
 - Camera-ready paper: April 15th, 2021 (Exact date will be announced, as per CVPR website)
