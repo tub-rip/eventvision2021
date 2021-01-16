@@ -40,7 +40,7 @@ The tentative schedule is the following:
 5. Final Panel Discussion
 
 ## Important Dates
-- Paper sumbission deadline: **<span style="color:red">March 27, 2021</span>**. **[Submission website](https://cmt3.research.microsoft.com/EVENTVISION2021)**
+- Paper submission deadline: **<span style="color:red">March 27, 2021</span>**. **[Submission website](https://cmt3.research.microsoft.com/EVENTVISION2021)**
 - Demo abstract submission: March 27, 2021
 - Notification to authors: April 10th, 2021
 - Camera-ready paper: April 15th, 2021 (Exact date will be announced, as per CVPR website)
