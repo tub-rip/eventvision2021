@@ -29,6 +29,23 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 TBA
 -->
 
+## List of Speakers
+- [Ryad Benosman (Univ. Pittsburgh, USA)](https://mirm-pitt.net/our-people/faculty-staff-bios/ryad-benosman-phd/)
+- [Kwabena Boahen (Stanford, USA)](http://web.stanford.edu/group/brainsinsilicon/people.html)
+- [Bernabé Linares-Barranco (Univ. Sevilla, Spain)](http://www2.imse-cnm.csic.es/~bernabe/)
+- [Chiara Bartolozzi (IIT, Italy)](https://www.iit.it/people/chiara-bartolozzi)
+- [Ralph Etienne-Cummings (Johns Hopkins Univ., USA)](https://engineering.jhu.edu/csms/team/rec/)
+- [Oliver Cossairt (Northwestern Univ., USA)](https://compphotolab.northwestern.edu/)
+- [Guido de Croon (TU Delft, Netherlands)](http://www.bene-guido.eu/wordpress/)
+- [Gregory Cohen (Western Sydney Univ., Australia)](https://www.westernsydney.edu.au/marcs/our_team/researchers/gregory_cohen)
+- [Yulia Sandamirskaya (Intel Labs, Germany)](https://www.linkedin.com/in/yulia-sandamirskaya-0076553/)
+- [Robert Mahony (Australian National Univ., Australia)](https://cecs.anu.edu.au/people/robert-mahony)
+- [Kynan Eng (iniVation, Switzerland)](https://www.kynaneng.com/)
+- [Shoushun Chen (CelePixel - Will Semiconductor, China)](https://www3.ntu.edu.sg/home/eechenss/)
+- [Volkan Isler (Samsung AI Center NY, USA)](https://www.linkedin.com/in/volkan-isler/)
+- [Davide Migliore (Prophesee, France)](https://www.linkedin.com/in/davidemigliore/)
+
+
 ## Schedule
 
 The tentative schedule is the following:
@@ -38,6 +55,8 @@ The tentative schedule is the following:
 3. Session: Algorithms and Architectures.
 4. Session: Industrial companies and applications.
 5. Final Panel Discussion
+
+
 
 ## Important Dates
 - Paper submission deadline: **<span style="color:red">March 27, 2021</span>**. **[Submission website](https://cmt3.research.microsoft.com/EVENTVISION2021)**
