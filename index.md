@@ -32,7 +32,7 @@ TBA
 ## List of Speakers
 - [Ryad Benosman (Univ. Pittsburgh, USA)](https://mirm-pitt.net/our-people/faculty-staff-bios/ryad-benosman-phd/)
 - [Kwabena Boahen (Stanford, USA)](http://web.stanford.edu/group/brainsinsilicon/people.html)
-- [Bernabé Linares-Barranco (Univ. Sevilla, Spain)](http://www2.imse-cnm.csic.es/~bernabe/)
+- [Bernabé Linares-Barranco (IMSE-CNM, CSIC and Univ. Sevilla, Spain)](http://www2.imse-cnm.csic.es/~bernabe/)
 - [Chiara Bartolozzi (IIT, Italy)](https://www.iit.it/people/chiara-bartolozzi)
 - [Ralph Etienne-Cummings (Johns Hopkins Univ., USA)](https://engineering.jhu.edu/csms/team/rec/)
 - [Oliver Cossairt (Northwestern Univ., USA)](https://compphotolab.northwestern.edu/)
