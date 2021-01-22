@@ -89,7 +89,7 @@ The tentative schedule is the following:
 </div>
 
 ## Organizers
-- [Guillermo Gallego](http://www.guillermogallego.es), Technische Universität Berlin, Germany.
+- [Guillermo Gallego](http://www.guillermogallego.es), Technische Universität Berlin and Einstein Center Digital Future, Germany.
 - [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html), University of Zurich, Switzerland.
 - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas), University of Pennsylvania, USA. 
 - [Cornelia Fermüller](http://users.umiacs.umd.edu/~fer), University of Maryland, USA.
