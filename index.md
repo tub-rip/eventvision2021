@@ -32,7 +32,7 @@ TBA
 ## List of Speakers
 - [Ryad Benosman (Univ. Pittsburgh, USA)](https://mirm-pitt.net/our-people/faculty-staff-bios/ryad-benosman-phd/)
 - [Kwabena Boahen (Stanford, USA)](http://web.stanford.edu/group/brainsinsilicon/people.html)
-- [Bernabé Linares-Barranco (IMSE-CNM, CSIC and Univ. Sevilla, Spain)](http://www2.imse-cnm.csic.es/~bernabe/)
+- [Bernabé Linares-Barranco (IMSE-CNM, CSIC and Univ. Seville, Spain)](http://www2.imse-cnm.csic.es/~bernabe/)
 - [Chiara Bartolozzi (IIT, Italy)](https://www.iit.it/people/chiara-bartolozzi)
 - [Ralph Etienne-Cummings (Johns Hopkins Univ., USA)](https://engineering.jhu.edu/csms/team/rec/)
 - [Oliver Cossairt (Northwestern Univ., USA)](https://compphotolab.northwestern.edu/)
@@ -40,10 +40,10 @@ TBA
 - [Gregory Cohen (Western Sydney Univ., Australia)](https://www.westernsydney.edu.au/marcs/our_team/researchers/gregory_cohen)
 - [Yulia Sandamirskaya (Intel Labs, Germany)](https://www.linkedin.com/in/yulia-sandamirskaya-0076553/)
 - [Robert Mahony (Australian National Univ., Australia)](https://cecs.anu.edu.au/people/robert-mahony)
-- [Kynan Eng (iniVation, Switzerland)](https://www.kynaneng.com/)
-- [Shoushun Chen (CelePixel - Will Semiconductor, China)](https://www3.ntu.edu.sg/home/eechenss/)
+- [Kynan Eng (CEO of iniVation, Switzerland)](https://www.kynaneng.com/)
+- [Shoushun Chen (Founder of CelePixel. Will Semiconductor, China)](https://www3.ntu.edu.sg/home/eechenss/)
 - [Volkan Isler (Samsung AI Center NY, USA)](https://www.linkedin.com/in/volkan-isler/)
-- [Davide Migliore (Prophesee, France)](https://www.linkedin.com/in/davidemigliore/)
+- [Luca Verre (CEO of Prophesee, France)](https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr)
 
 
 ## Schedule
