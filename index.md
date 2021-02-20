@@ -63,7 +63,7 @@ The tentative schedule is the following:
 - Demo abstract submission: March 27, 2021
 - Notification to authors: April 10, 2021
 - Camera-ready paper: April 15, 2021 (Exact date will be announced, as per CVPR website)
-- Workshop day: **June, 2021**. TBA. Full day & virtual workshop.
+- Workshop day: **June 19, 2021, Saturday. 1st day of CVPR**. Full day & virtual workshop.
 
 ## Call for Papers
 
