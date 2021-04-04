@@ -59,10 +59,10 @@ The tentative schedule is the following:
 
 
 ## Important Dates
-- Paper submission deadline: **<span style="color:red">March 27, 2021</span>**. **[Submission website](https://cmt3.research.microsoft.com/EVENTVISION2021)**
-- Demo abstract submission: March 27, 2021
-- Notification to authors: April 11, 2021
-- Camera-ready paper: April 15, 2021 (Exact date will be announced, as per CVPR website)
+- ~~Paper submission deadline: **<span style="color:red">March 27, 2021</span>**.~~ **[Submission website](https://cmt3.research.microsoft.com/EVENTVISION2021)**
+- ~~Demo abstract submission: March 27, 2021~~
+- Notification to authors: April 11-12, 2021
+- Camera-ready paper: April 19, 2021 (firm deadline by IEEE)
 - Workshop day: **June 19, 2021, Saturday. 1st day of CVPR**. Full day & virtual workshop.
 
 ## Call for Papers
