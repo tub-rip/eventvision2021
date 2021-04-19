@@ -1,8 +1,9 @@
 ![imagen](images/CVPRW2021-banner.jpg)
 
+**June 19, 2021, Saturday. 1st day of CVPR**. Virtual workshop.  
 Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2021.thecvf.com/) 2021.
 
-**Welcome to the Third International Workshop on Event-Based Vision!**
+**Welcome to the Third International Workshop on Event-Based Vision!**  
 
 ## Objectives
 
@@ -43,6 +44,7 @@ TBA
 - [Kynan Eng (CEO of iniVation, Switzerland)](https://www.kynaneng.com/)
 - [Shoushun Chen (Founder of CelePixel. Will Semiconductor, China)](https://www3.ntu.edu.sg/home/eechenss/)
 - [Volkan Isler (Samsung AI Center NY, USA)](https://www.linkedin.com/in/volkan-isler/)
+- [Christian Brändli (CEO of Sony Advanced Visual Sensing AG, Switzerland)](https://www.linkedin.com/in/volkan-isler/)
 - [Luca Verre (CEO of Prophesee, France)](https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr)
 
 
@@ -57,29 +59,22 @@ The tentative schedule is the following:
 5. Final Panel Discussion
 
 
+## Accepted Papers
+- [v2e: From Video Frames to Realistic DVS Events](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events.pdf), and [Suppl mat](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events_supp.zip)
+- [Differentiable Event Stream Simulator for Non-Rigid 3D Tracking](papers/2021CVPRW_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking.pdf), and [Suppl mat](papers/2021CVPRW_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking_supp.pdf)
+- [Comparing Representations in Tracking for Event Camera-based SLAM](papers/2021CVPRW_Comparing_Representations_in_Tracking_for_Event_Camera-based_SLAM.pdf)
+- [Image Reconstruction from Neuromorphic Event Cameras using Laplacian-Prediction and Poisson Integration with Spiking and Artificial Neural Networks](papers/2021CVPRW_Image_Reconstruction_from_Neuromorphic_Event_Cameras_using_Laplacian-Prediction.pdf)
+- [Detecting Stable Keypoints from Events through Image Gradient Prediction](papers/2021CVPRW_Detecting_Stable_Keypoints_from_Events_through_Image_Gradient_Prediction.pdf)
+- [EFI-Net: Video Frame Interpolation from Fusion of Events and Frames](papers/2021CVPRW_EFI-Net_Video_Frame_Interpolation_from_Fusion_of_Events_and_Frames.pdf), and [Suppl. mat](2021CVPRW_EFI-Net_Video_Frame_Interpolation_from_Fusion_of_Events_and_Frames_supp.zip)
+- [DVS-OUTLAB: A Neuromorphic Event-Based Long Time Monitoring Dataset for Real-World Outdoor Scenarios](papers/2021CVPRW_DVS-OUTLAB_A_Neuromorphic_Event-Based_Long_Time_Monitoring_Dataset.pdf)
+- [N-ROD: a Neuromorphic Dataset for Synthetic-to-Real Domain Adaptation](papers/2021CVPRW_N-ROD_A_Neuromorphic_Dataset_for_Synthetic-to-Real_Domain_Adaptation.pdf)
+- [Lifting Monocular Events to 3D Human Poses](papers/2021CVPRW_Lifting_Monocular_Events_to_3D_Human_Poses.pdf)
+- [A Cortically-inspired Architecture for Event-based Visual Motion Processing: From Design Principles to Real-world Applications](papers/2021CVPRW_A_Cortically-inspired_Architecture_for_Event-based_Visual_Motion_Processing.pdf)
+- [Spike timing-based unsupervised learning of orientation, disparity, and motion representations in a spiking neural network](papers/2021CVPRW_Spike_timing-based_unsupervised_learning_of_orientation_disparity_and_motion_representations.pdf), and [Suppl mat](papers/2021CVPRW_Spike_timing-based_unsupervised_learning_of_orientation_disparity_and_motion_representations_supp.pdf)
+- [Feedback control of event cameras](papers/2021CVPRW_Feedback_control_of_event_cameras.pdf)
+- [How to Calibrate Your Event Camera](papers/2021CVPRW_How_to_Calibrate_Your_Event_Camera.pdf)
+- [Live Demonstration: Incremental Motion Estimation for Event-based Cameras by Dispersion Minimisation](papers/2021CVPRW_Live_Demonstration_Incremental_Motion_Estimation_for_Event-based_Cameras_by_Dispersion_Minimisation.pdf)
 
-## Important Dates
-- ~~Paper submission deadline: **<span style="color:red">March 27, 2021</span>**.~~ **[Submission website](https://cmt3.research.microsoft.com/EVENTVISION2021)**
-- ~~Demo abstract submission: March 27, 2021~~
-- Notification to authors: April 11-12, 2021
-- Camera-ready paper: April 19, 2021 (firm deadline by IEEE)
-- Workshop day: **June 19, 2021, Saturday. 1st day of CVPR**. Full day & virtual workshop.
-
-## Call for Papers
-
-<p><div style="text-align: justify">
-  Research papers and demos are solicited in, but not limited to, the topics listed above.
-  Paper submissions must adhere to the CVPR 2021 paper submission style, format and length restrictions. 
-  See the <a href="http://cvpr2021.thecvf.com/node/33">author guidelines</a> and <a href="http://cvpr2021.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip">template</a> provided by the CVPR 2021 main conference.
-  See also the policy of <a href="http://iccv2021.thecvf.com/node/4#policies">Dual/Double Submissions of concurrently-reviewed conferences, such as ICCV</a>. 
-  Authors may want to limit the submission to four pages (excluding references) if that is their case.
-</div></p>
-
-<p><div style="text-align: justify">
-  A double blind peer-review process of the submissions received is carried out via CMT.
-  Accepted papers will be published open access through the Computer Vision Foundation (CVF) (see <a href="https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision">examples from CVPR Workshop 2019</a>).
-  For the accepted papers we request that the authors write a paragraph about ethical considerations and impact of their work.
-</div></p>
 
 ### Courtesy presentations                 
 <div style="text-align: justify">
