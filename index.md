@@ -57,6 +57,18 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <p>He has been involved with circuit design for telecommunication circuits, VLSI emulators of biological neurons, VLSI neural based pattern recognition systems, hearing aids, precision circuit design for instrumentation equipment, VLSI transistor mismatch parameters characterization, and over the past 20 years has been deeply involved with neuromorphic spiking circuits and systems, with strong emphasis on vision and exploiting nanoscale memristive devices for learning. He is co-founder of two start-ups, Prophesee SA (www.prophesee.ai) and GrAI-Matter-Labs SAS (www.graimatterlabs.ai), both on neuromorphic hardware. He has been Associate Editor of the IEEE Transactions on Circuits and Systems Part II, IEEE Transactions on Neural Networks, and "Frontiers in Neuromorphic Engineering". Since Jan. 2021 he is Chief Editor of "Frontiers in Neuromorphic Engineering". He is an IEEE Fellow since January 2010. He is listed among the Standford top 2% most world-wide cited scientist in Electrical and Electronic Engineering (top 0.62%).
 </p>
 </details>
+
+<details>
+<summary>
+&#9632; <a href="https://compphotolab.northwestern.edu/">Oliver Cossairt (Northwestern Univ., USA)</a><br>
+[Click] <span style="color:tomato;"><b>Hardware and Algorithm Co-design with Event Sensors</b></span>.
+</summary>
+<p>
+<b>Abstract</b>: In this talk I will provide an overview of our research developing hardware/software co-designs with event sensors, focusing on methods to fuse together information acquired from multiple sensing modalities for task-specific processing such as image reconstruction, object detection, and tracking. I will discuss three main thrusts of research, 1) extracting 3D information from event data using structured light, and inverse rendering, 2), fusing event sensor data together with conventional frame-based camera images, and 3) a feedback-driven, chip-host architecture built for lightweight on-camera processing equipped with novel data compression algorithms for high-bandwidth, task-specific chip/host communication. Finally, I will wrap up by briefly discussing our current work in-progress developing spiking-based neural network (SNN) algorithms to leverage similar co-design principles.</p>
+
+<p><b>Biography</b>: Oliver Cossairt is Associate Professor in the Computer Science (CS) and Electrical and Computer Engineering (ECE) departments at Northwestern University. Prof. Cossairt is director of the Computational Photography Laboratory (CPL) at Northwestern University (compphotolab.northwestern.edu), whose research consists of a diverse portfolio, ranging in topics from optics/photonics, computer graphics, computer vision, machine learning and image processing. The general goal of CPL is to develop imaging hardware and algorithms that can be applied across a broad range of physical scales, from nanometer to astronomical. This includes active projects on 3D nano-tomography, computational microscopy , cultural heritage imaging analysis of paintings, structured light and ToF 3D-scanning of macroscopic scenes, de-scattering through fog for remote sensing, and coded aperture imaging for astronomy. Prof. Cossairt has garnered funding from numerous corporate sponsorships (Google, Rambus, Samsung, Omron, Oculus/Facebook, Zoloz/Alibaba) and federal funding agencies (ONR, NIH, DOE, DARPA, IARPA, NSF CAREER Award).
+</p>
+</details>
 <details>
 <summary>
 &#9632; <a href="https://www3.ntu.edu.sg/home/eechenss/">Shoushun Chen (Founder of CelePixel. Will Semiconductor, China)</a><br>
@@ -83,11 +95,9 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <p><b>Biography</b>: Christian Brändli did his PhD at ETH Zurich in the research group of EVS pioneer Prof. Tobi Delbruck at the Institute of Neuroinformatics where he contributed to early event-based vision sensors and algorithms. After his graduation he co-founded the startup Insightness which developed the first stacked event-based image sensor and benchmark-beating algorithms. After the Insightness team joined Sony in 2019 he became the CEO of Sony AVS.
 </p>
 </details>
-
 - [Ryad Benosman (Univ. Pittsburgh, USA)](https://mirm-pitt.net/our-people/faculty-staff-bios/ryad-benosman-phd/)
 - [Kwabena Boahen (Stanford, USA)](http://web.stanford.edu/group/brainsinsilicon/people.html)
 - [Chiara Bartolozzi (IIT, Italy)](https://www.iit.it/people/chiara-bartolozzi)
-- [Oliver Cossairt (Northwestern Univ., USA)](https://compphotolab.northwestern.edu/)
 - [Guido de Croon (TU Delft, Netherlands)](http://www.bene-guido.eu/wordpress/)
 - [Gregory Cohen (Western Sydney Univ., Australia)](https://www.westernsydney.edu.au/marcs/our_team/researchers/gregory_cohen)
 - [Yulia Sandamirskaya (Intel Labs, Germany)](https://www.linkedin.com/in/yulia-sandamirskaya-0076553/)
