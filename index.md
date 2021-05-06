@@ -34,7 +34,7 @@ TBA
 ## List of Talks and Speakers
 <details>
 <summary>
-&#9632; <a href="https://engineering.jhu.edu/csms/team/rec/">Ralph Etienne-Cummings (Johns Hopkins Univ., USA)</a></br>
+&#9632; <a href="https://engineering.jhu.edu/csms/team/rec/">Ralph Etienne-Cummings (Johns Hopkins Univ., USA)</a><br>
 <b>[Expand:] Learning Spatiotemporal Filters to Track Event-Based Visual Saliency</b>, 
 </summary>
 <p>
@@ -45,7 +45,8 @@ TBA
 </details>
 <details>
 <summary>
-<b>&#8226; [Expand] Event-driven convolution based processing</b>, by <a href="http://www2.imse-cnm.csic.es/~bernabe/">Bernabé Linares-Barranco (IMSE-CNM, CSIC and Univ. Seville, Spain)</a>
+&#9632; <a href="http://www2.imse-cnm.csic.es/~bernabe/">Bernabé Linares-Barranco (IMSE-CNM, CSIC and Univ. Seville, Spain)</a><br>
+[Expand] <b>Event-driven convolution based processing</b>.
 </summary>
 <p>
 <b>Abstract</b>: We will review some of the event-driven hardware developments in which our lab has been involved, covering from sensitive-DVS to event-driven convolutions on dedicated ASICs, FPGAs, and the SpiNNaker platform, with applications in object recognition or stereo vision. We will show how to train event-driven convnets to minimize the number of required spikes, reducing energy consumption for the same recognition tasks. Additionally, we will present some results on a type of spike-timing-dependent-plasticity, which uses only binary weights combined with stochasticity, and which results in hardware that requires less hardware and energy resources for the same accuracy.</p>
@@ -58,7 +59,8 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </details>
 <details>
 <summary>
-<b>&#8226; [Expand] Development of Event-based Sensor and Applications</b>, by <a href="https://www3.ntu.edu.sg/home/eechenss/">Shoushun Chen (Founder of CelePixel. Will Semiconductor, China)</a>
+&#9632; <a href="https://www3.ntu.edu.sg/home/eechenss/">Shoushun Chen (Founder of CelePixel. Will Semiconductor, China)</a><br>
+[Expand] <b>Development of Event-based Sensor and Applications</b>.
 </summary>
 <p>
 <b>Abstract</b>: Event cameras have demonstrated great potential to solve problems in many applications such as robotics, mobile, automotive, gaming and computer vision etc. This talk will introduce the recent development by CelePixel. We will first revisit the pixel architecture, then discuss on the limiting factors of the temporal resolution which could be applicable to other event sensors, finally we will introduce an efficient event-based HCI framework.</p>
@@ -72,7 +74,8 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </details>
 <details>
 <summary>
-<b>&#8226; [Expand] Event-Based Computer Vision At Sony AVS</b>, by <a href="https://www.linkedin.com/in/christian-br%C3%A4ndli-b1418a76/">Christian Brändli (CEO of Sony Advanced Visual Sensing AG, Switzerland)</a>
+&#9632; <a href="https://www.linkedin.com/in/christian-br%C3%A4ndli-b1418a76/">Christian Brändli (CEO of Sony Advanced Visual Sensing AG, Switzerland)</a><br>
+[Expand] <b>Event-Based Computer Vision At Sony AVS</b>
 </summary>
 <p>
 <b>Abstract</b>: Sony Advanced Visual Sensing is a research center of Sony Semiconductor Solutions, the world leader in image sensors. With a long history in the field, Sony AVS works on event-based vision sensors (EVS) and computer vision algorithms. First, the talk will introduce some core principles of event-based processing which have been gathered over the years. The second part of the talk will then highlight some recent applications of event-based algorithms developed at Sony AVS.</p>
