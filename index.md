@@ -68,7 +68,6 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <p><b>Biography</b>: Oliver Cossairt is Associate Professor in the Computer Science (CS) and Electrical and Computer Engineering (ECE) departments at Northwestern University. Prof. Cossairt is director of the Computational Photography Laboratory (CPL) at Northwestern University (compphotolab.northwestern.edu), whose research consists of a diverse portfolio, ranging in topics from optics/photonics, computer graphics, computer vision, machine learning and image processing. The general goal of CPL is to develop imaging hardware and algorithms that can be applied across a broad range of physical scales, from nanometer to astronomical. This includes active projects on 3D nano-tomography, computational microscopy , cultural heritage imaging analysis of paintings, structured light and ToF 3D-scanning of macroscopic scenes, de-scattering through fog for remote sensing, and coded aperture imaging for astronomy. Prof. Cossairt has garnered funding from numerous corporate sponsorships (Google, Rambus, Samsung, Omron, Oculus/Facebook, Zoloz/Alibaba) and federal funding agencies (ONR, NIH, DOE, DARPA, IARPA, NSF CAREER Award).
 </p>
 </details>
-
 <details>
 <summary>
 &#9632; <a href="https://www.westernsydney.edu.au/marcs/our_team/researchers/gregory_cohen">Gregory Cohen (Western Sydney Univ., Australia)</a><br>
@@ -78,6 +77,17 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <b>Abstract</b>: Neuromorphic event-based cameras offer a different way to approach visual imaging tasks and really excel at problems in which they can leverage the unique way that the hardware works. This talk will introduce a range of applications for neuromorphic cameras ranging from tracking space junk and satellites to their applications in robotic foosball and pinball. We will demonstrate real-world results from space tracking with event-based cameras, and introduce our Astrosite mobile neuromorphic telescope observatories - built specifically to leverage the benefits of neuromorphic space imaging. We will describe some of the problems with benchmarking and comparing neuromorphic systems, and show how robotic foosball and robotic pinball machines may be a great way to demonstrate the benefits of neuromorphic systems.</p>
 
 <p><b>Biography</b>: Gregory Cohen is an Associate Professor in Neuromorphic Systems at the International Centre for Neuromorphic Systems (ICNS) at Western Sydney University and program lead for neuromorphic algorithms and space applications. Prior to returning to research from industry, he worked in several start-ups and established engineering and consulting firms including working as a consulting engineer in the field of large-scale HVAC from 2007 to 2009, as an electronic design engineer from 2009 to 2011, and as an expert consultant for Kaiser Economic Development Practice in 2012. He is a pioneer of event-based and neuromorphic sensing for space imaging applications and his research interests include unsupervised feature extraction, bio-inspired machine learning, and neuromorphic computation systems. Greg holds a BSc(Eng), MSc(Eng), and BCom(Hons) from the University of Cape Town, South Africa and a joint PhD from Western Sydney University, Sydney, Australia and the University of Pierre and Marie Curie in Paris, France.
+</p>
+</details>
+<details>
+<summary>
+&#9632; <a href="http://www.bene-guido.eu/wordpress/">Guido de Croon (TU Delft, Netherlands)</a><br>
+[Click] <span style="color:tomato;"><b>Event-based vision and processing for tiny drones</b></span>.
+</summary>
+<p>
+<b>Abstract</b>: Event-based vision and processing hold an important promise for creating autonomous tiny drones. Both promise to be light weight and highly energy efficient, while allowing for high-speed perception and control. For tiny drones, these characteristics are essential, as they are extremely restricted in terms of size, weight and power, while at smaller scales drones become even more agile. In my talk, I will present our work on developing event-based perception and control for tiny autonomous drones. I will delve into the approach we followed for having spiking neural networks learn visual tasks such as optical flow estimation. Furthermore, I will explain our ongoing effort to integrate these networks in autonomously flying drones.</p>
+
+<p><b>Biography</b>: Guido de Croon Received his M.Sc. and Ph.D. in the field of Artificial Intelligence (AI) at Maastricht University, the Netherlands. His research interest lies with computationally efficient, bio-inspired algorithms for robot autonomy, with an emphasis on computer vision. Since 2008 he has worked on algorithms for achieving autonomous flight with small and light-weight flying robots, such as the DelFly flapping wing MAV. In 2011-2012, he was a research fellow in the Advanced Concepts Team of the European Space Agency, where he studied topics such as optical flow based control algorithms for extraterrestrial landing scenarios. After his return at TU Delft, his work has included fully autonomous flight of a 20-gram DelFly, a new theory on active distance perception with optical flow, and a swarm of tiny drones able to explore unknown environments. Currently, he is Full Professor at TU Delft and scientific lead of the Micro Air Vehicle lab (MAVLab) of Delft University of Technology.
 </p>
 </details>
 <details>
@@ -109,7 +119,6 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 - [Ryad Benosman (Univ. Pittsburgh, USA)](https://mirm-pitt.net/our-people/faculty-staff-bios/ryad-benosman-phd/)
 - [Kwabena Boahen (Stanford, USA)](http://web.stanford.edu/group/brainsinsilicon/people.html)
 - [Chiara Bartolozzi (IIT, Italy)](https://www.iit.it/people/chiara-bartolozzi)
-- [Guido de Croon (TU Delft, Netherlands)](http://www.bene-guido.eu/wordpress/)
 - [Yulia Sandamirskaya (Intel Labs, Germany)](https://www.linkedin.com/in/yulia-sandamirskaya-0076553/)
 - [Robert Mahony (Australian National Univ., Australia)](https://cecs.anu.edu.au/people/robert-mahony)
 - [Kynan Eng (CEO of iniVation, Switzerland)](https://www.kynaneng.com/)
