@@ -92,6 +92,17 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </details>
 <details>
 <summary>
+&#9632; <a href="https://www.kynaneng.com/">Kynan Eng (CEO of iniVation, Switzerland)</a><br>
+[Click] <span style="color:tomato;"><b>High-Performance Neuromorphic Vision: From Core Technologies to Applications</b></span>.
+</summary>
+<p>
+<b>Abstract</b>: Neuromorphic event-based vision can enable new levels of enhanced vision sensing in situations where current technologies fail. In this presentation, we provide an overview of our technology, our DV open developer environment, and some real-world application examples.</p>
+
+<p><b>Biography</b>: Kynan Eng is co-founder and CEO at iniVation. Prior to co-founding iniVation, he was PI of a research group at the Institute of Neuroinformatics at the University of Zurich and ETH Zurich. He also worked in the past at ABB and Alstom. He holds a PhD from the ETH Zurich, and degrees in computer science and mechanical engineering from Monash University.
+</p>
+</details>
+<details>
+<summary>
 &#9632; <a href="https://www3.ntu.edu.sg/home/eechenss/">Shoushun Chen (Founder of CelePixel. Will Semiconductor, China)</a><br>
 [Click] <span style="color:tomato;"><b>Development of Event-based Sensor and Applications</b></span>.
 </summary>
@@ -121,7 +132,6 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 - [Chiara Bartolozzi (IIT, Italy)](https://www.iit.it/people/chiara-bartolozzi)
 - [Yulia Sandamirskaya (Intel Labs, Germany)](https://www.linkedin.com/in/yulia-sandamirskaya-0076553/)
 - [Robert Mahony (Australian National Univ., Australia)](https://cecs.anu.edu.au/people/robert-mahony)
-- [Kynan Eng (CEO of iniVation, Switzerland)](https://www.kynaneng.com/)
 - [Volkan Isler (Samsung AI Center NY, USA)](https://www.linkedin.com/in/volkan-isler/)
 - [Luca Verre (CEO of Prophesee, France)](https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr)
 
