@@ -129,7 +129,7 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </details>
 <details>
 <summary>
-&#9632; <a href="https://abisulco.com/about.html">Anthony Bisulco, Daewon Lee, Volkan Isler (Samsung AI Center NY, USA)</a><br>
+&#9632; <a href="https://abisulco.com/about.html">Anthony Bisulco, Daewon Lee, Daniel D. Lee, Volkan Isler (Samsung AI Center NY, USA)</a><br>
 [Click] <span style="color:tomato;"><b>High Speed Perception-Action Systems with Event-Based Cameras</b></span>.
 </summary>
 <p>
