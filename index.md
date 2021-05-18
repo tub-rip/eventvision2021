@@ -47,7 +47,7 @@ TBA
 <summary>
 &#9632; <a href="http://www2.imse-cnm.csic.es/~bernabe/">Bernabé Linares-Barranco (IMSE-CNM, CSIC and Univ. Seville, Spain)</a><br>
 [Click] <span style="color:tomato;"><b>Event-driven convolution based processing</b></span>. 
-  <b><a href="https://youtu.be/JyaNT69GWO0"><span style="color:$section-headings-color;">Video</span></a>, 
+  <b><a href="https://youtu.be/JyaNT69GWO0"><span style="color: $section-headings-color;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Bernabe_LinaresBarranco.pdf"><span style="color:mediumseagreen;">Slides</span></a></b>
 </summary>
 <p>
