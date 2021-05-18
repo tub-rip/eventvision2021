@@ -46,7 +46,9 @@ TBA
 <details>
 <summary>
 &#9632; <a href="http://www2.imse-cnm.csic.es/~bernabe/">Bernabé Linares-Barranco (IMSE-CNM, CSIC and Univ. Seville, Spain)</a><br>
-[Click] <span style="color:tomato;"><b>Event-driven convolution based processing</b></span>.
+[Click] <span style="color:tomato;"><b>Event-driven convolution based processing</b></span>. 
+  <span style="color:MediumSeaGreen;"><b><a href="https://youtu.be/JyaNT69GWO0">Video</a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Bernabe_LinaresBarranco.pdf">Slides</a></b></span>
 </summary>
 <p>
 <b>Abstract</b>: We will review some of the event-driven hardware developments in which our lab has been involved, covering from sensitive-DVS to event-driven convolutions on dedicated ASICs, FPGAs, and the SpiNNaker platform, with applications in object recognition or stereo vision. We will show how to train event-driven convnets to minimize the number of required spikes, reducing energy consumption for the same recognition tasks. Additionally, we will present some results on a type of spike-timing-dependent-plasticity, which uses only binary weights combined with stochasticity, and which results in hardware that requires less hardware and energy resources for the same accuracy.</p>
