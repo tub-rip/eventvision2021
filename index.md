@@ -94,6 +94,17 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </details>
 <details>
 <summary>
+&#9632; <a href="https://www.iit.it/people/chiara-bartolozzi">Chiara Bartolozzi (IIT, Italy)</a><br>
+[Click] <span style="color:tomato;"><b>Neuromorphic vision for humanoid robots</b></span>.
+</summary>
+<p>
+<b>Abstract</b>: Humanoid robots need to autonomously understand the world around them and be capable of planning appropriate and timely behaviour. Event-cameras can support the development of these capabilities, mostly thanks to their high temporal resolution, compressive encoding of visual data and high dynamic range. At the same time, new computational paradigms have to be devised to process the event-stream. These novel methods range from adapting “traditional” computer vision to run on events, to getting inspired from biological visual processing. In this presentation we will cover some examples of both approaches.</p>
+
+<p><b>Biography</b>: Chiara Bartolozzi is Researcher at the Italian Institute of Technology. She earned a degree in Engineering at University of Genova (Italy) and a Ph.D. in Neuroinformatics at ETH Zurich, developing analog subthreshold circuits for emulating biophysical neuronal properties onto silicon and modelling selective attention on hierarchical multi-chip systems. She is currently leading the Event-Driven Perception for Robotics group (https://edpr.iit.it/), with the aim of applying the "neuromorphic" engineering approach (https://ieeexplore.ieee.org/document/6809149) to the design of robotic platforms as enabling technology towards the design of autonomous machines.
+</p>
+</details>
+<details>
+<summary>
 &#9632; <a href="https://www.kynaneng.com/">Kynan Eng (CEO of iniVation, Switzerland)</a><br>
 [Click] <span style="color:tomato;"><b>High-Performance Neuromorphic Vision: From Core Technologies to Applications</b></span>.
 </summary>
