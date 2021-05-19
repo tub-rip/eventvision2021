@@ -213,7 +213,12 @@ The tentative schedule is the following:
 - [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html), University of Zurich, Switzerland.
 - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas), University of Pennsylvania, USA. 
 - [Cornelia Fermüller](http://users.umiacs.umd.edu/~fer), University of Maryland, USA.
-- [Davide Migliore](https://www.linkedin.com/in/davidemigliore), Prophesee, France.
+- [Davide Migliore](https://www.linkedin.com/in/davidemigliore), [Prophesee](https://www.prophesee.ai/), France.
+
+## Sponsor
+This workshop is sponsored by event camera manufacturer  
+
+[![sponsor](images/PROPHESEE-Official-Logo.png)](https://www.prophesee.ai/)
 
 ## FAQs
 <ul>
