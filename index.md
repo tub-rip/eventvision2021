@@ -105,6 +105,16 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </details>
 <details>
 <summary>
+&#9632; <a href="https://www.intel.com/content/www/us/en/research/researchers/yulia-sandamirskaya.html">Yulia Sandamirskaya (Intel Labs, Germany)</a><br>
+[Click] <span style="color:tomato;"><b>Neuromorphic computing hardware and event based vision: a perfect match?</b></span>
+</summary>
+<p>
+<b>Abstract</b>: I will provide an overview of spiking neuronal network based architecture for processing the event-based vision (EBV) output in neuromorphic hardware, highlighting examples of EBV workloads developed in Intel’s Neuromorphic Research Community. (https://www.intel.com/content/www/us/en/research/neuromorphic-community.html)</p>
+
+<p><b>Biography</b>: Yulia Sandamirskaya leads the Application Research team of the Neuromorphic Computing Lab of Intel Labs. Her team develops spiking neuronal network based algorithms for neuromorphic hardware to demonstrate the potential of neuromorphic computing in real-world applications. Before joining Intel, Yulia led a group “Neuromorphic Cognitive Robots” in the Institute of Neuroinformatics at the University of Zurich and ETH Zurich. She was chairing EUCog—the European Society for Artificial Cognitive Systems and coordinated an EU project NEUROTECH, creating and supporting the neuromorphic computing technology community in Europe.</p>
+</details>
+<details>
+<summary>
 &#9632; <a href="https://www.kynaneng.com/">Kynan Eng (CEO of iniVation, Switzerland)</a><br>
 [Click] <span style="color:tomato;"><b>High-Performance Neuromorphic Vision: From Core Technologies to Applications</b></span>.
 </summary>
@@ -156,7 +166,6 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 
 - [Ryad Benosman (Univ. Pittsburgh, USA)](https://mirm-pitt.net/our-people/faculty-staff-bios/ryad-benosman-phd/)
 - [Kwabena Boahen (Stanford, USA)](http://web.stanford.edu/group/brainsinsilicon/people.html)
-- [Yulia Sandamirskaya (Intel Labs, Germany)](https://www.linkedin.com/in/yulia-sandamirskaya-0076553/)
 - [Robert Mahony (Australian National Univ., Australia)](https://cecs.anu.edu.au/people/robert-mahony)
 - [Luca Verre (CEO of Prophesee, France)](https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr)
 
