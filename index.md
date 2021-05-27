@@ -128,6 +128,8 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <summary>
 &#9632; <a href="https://www3.ntu.edu.sg/home/eechenss/">Shoushun Chen (Founder of CelePixel. Will Semiconductor, China)</a><br>
 [Click] <span style="color:tomato;"><b>Development of Event-based Sensor and Applications</b></span>.
+    <b><a href="https://youtu.be/5FBEqOTgxnM"><span style="color:#159957;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Shoushun_Chen.pdf"><span style="color:#159957;">Slides</span></a></b>
 </summary>
 <p>
 <b>Abstract</b>: Event cameras have demonstrated great potential to solve problems in many applications such as robotics, mobile, automotive, gaming and computer vision etc. This talk will introduce the recent development by CelePixel. We will first revisit the pixel architecture, then discuss on the limiting factors of the temporal resolution which could be applicable to other event sensors, finally we will introduce an efficient event-based HCI framework.</p>
