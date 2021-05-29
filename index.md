@@ -86,7 +86,7 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 &#9632; <a href="http://www.bene-guido.eu/wordpress/">Guido de Croon (TU Delft, Netherlands)</a><br>
 [Click] <span style="color:tomato;"><b>Event-based vision and processing for tiny drones</b></span>.
   <b><a href="https://youtu.be/GSJRszrffJI"><span style="color:#159957;">Video</span></a>, 
-  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Guido_de_Croon.pdf"><span style="color:#159957;">Slides</span></a></b>
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Guido_de_Croon.pdf"><span style="color:#159957;">Slides </span></a></b>
 </summary>
 <p>
 <b>Abstract</b>: Event-based vision and processing hold an important promise for creating autonomous tiny drones. Both promise to be light weight and highly energy efficient, while allowing for high-speed perception and control. For tiny drones, these characteristics are essential, as they are extremely restricted in terms of size, weight and power, while at smaller scales drones become even more agile. In my talk, I will present our work on developing event-based perception and control for tiny autonomous drones. I will delve into the approach we followed for having spiking neural networks learn visual tasks such as optical flow estimation. Furthermore, I will explain our ongoing effort to integrate these networks in autonomously flying drones.</p>
