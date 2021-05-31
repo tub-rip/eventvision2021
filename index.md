@@ -61,6 +61,25 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </details>
 <details>
 <summary>
+&#9632; <a href="https://mirm-pitt.net/our-people/faculty-staff-bios/ryad-benosman-phd/">Ryad Benosman (University of Pittsburgh / Carnegie Mellon Univeristy / Sorbonne)</a><br>
+[Click] <span style="color:tomato;"><b>Event Computer Vision 10 years Assessment: Where We Came From, Where We Are and Where We Are Heading To</b></span>.
+</summary>
+<p>
+<b>Abstract</b>: The field of Event-based vision has started within the neuromorphic community decades ago with the promise to develop a new paradigm for sensing and computation inspired by brain structures. For decades, this endeavor has been an exercise in pure research, but over the past 10 years my lab and other investigators have been pursuing this approach to build practical vision systems available to laymen that could be bought off-the-shelf and used by all. Event-based sensors introduce a radical change in Computer Vision because they sample the visual information asynchronously based on pixels “deciding” when information must be acquired. Although some Event cameras allows the acquisition of frames or absolute illuminance, I will shine light on the generic approach required to process visual events in order to make full use of the low power low latency properties of these sensors. I will explain what the canonical structure of an event-based visual application. I will finally explain based on a deep knowledge of the field and the market where all this is heading and what major achievements are waiting to be made and what is currently preventing them from happening.</p>
+</details>
+<details>
+<summary>
+&#9632; <a href="http://web.stanford.edu/group/brainsinsilicon/people.html">Kwabena Boahen (Stanford, USA)</a><br>
+[Click] <span style="color:tomato;"><b>Routing Events in Two-Dimensional Arrays with a Tree</b></span>.
+</summary>
+<p>
+<b>Abstract</b>: Abstract: These days, imagers are built by stacking two chips, one with photodetectors, the other with readout electronics. A through-silicon-via or flip-chip bond-pad delivers each signal from the two-dimensional (2D) array of pixels. This approach abandons feeding pixel signals to interface circuitry on the p periphery with one or two shared wires per row or column. Instead, pixels signals may be fed to the leaves of a tree, whose nodes are distributed throughout the readout chip. We present such a tree router, tailored to 2D arrays of pixels, or of small clusters of silicon neurons; each of its nodes has four daughters. Layout is fractal (H-tree); this uses less wiring per signal than a grid. Signaling is  serial; this keeps link-width constant (regardless of payload size). To route from the tree's leaves to its root (or vise versa), each node prepends (consumes) a delay-insensitive 1-of-4 code that signals the route's previous (next) branch; additional codes carry payload (2 bits each). We deploy this serial H-tree router to service a 16×16 array of silicon-neuron clusters, each with 16 spike-generating analog somas, 4 spike-consuming analog synapses, and one 128-bit SRAM. Fabricated in a 28-nm CMOS process, the router communicates 26.8M soma-generated and 18.3M synapse-targeted spikes per second while occupying 43% of the client's 35.1×36.1sq-μm.</p>
+
+<p><b>Biography</b>: Kwabena Boahen received the B.S. and M.S.E. degrees in electrical and computer engineering from the Johns Hopkins University, Baltimore, MD, both in 1989, and the Ph.D. degree in computation and neural systems from the California Institute of Technology, Pasadena, in 1997. He was on the bioengineering faculty of the University of Pennsylvania from 1997 to 2005, where he held the first Skirkanich Term Junior Chair. He is presently Professor of Bioengineering and Electrical Engineering at Stanford University, with a courtesy appointment in Computer Science. He is also an investigator in Stanford’s Bio-X Institute and Wu Tsai Neurosciences Institute. He  founded and directs Stanford’s Brains in Silicon lab, which develops silicon integrated circuits that emulate the way neurons compute and computational models that link neuronal biophysics to cognitive behavior. This interdisciplinary research bridges neurobiology and medicine with electronics and computer science, bringing together these seemingly disparate fields. His scholarship is widely recognized, with over a hundred publications, including a cover story in Scientific American featuring his lab’s work on a silicon retina and a silicon tectum that “wire together” automatically (May 2005). He has been invited to give over a hundred seminar, plenary, and keynote talks, including a 2007 TED talk, “A computer that works like the brain”, with over seven hundred thousand views. He has received several distinguished honors, including a Packard Fellowship for Science and Engineering (1999) and a National Institutes of Health Director’s Pioneer Award (2006). He was elected a fellow of the American Institute for Medical and Biological Engineering (2016) and of the Institute of Electrical and Electronic Engineers (2016) in recognition of his lab’s work on Neurogrid, an iPad-size platform that emulates the cerebral cortex in biophysical detail and at functional scale, a combination that hitherto required a supercomputer. In his lab’s most recent research effort, the Brainstorm Project, he led a multi-university, multi-investigator team to co-design hardware and software that makes neuromorphic computing easier to apply. A spin-out from his Stanford lab, Femtosense Inc (2018), is commercializing this breakthrough.
+</p>
+</details>
+<details>
+<summary>
 &#9632; <a href="https://compphotolab.northwestern.edu/">Oliver Cossairt (Northwestern Univ., USA)</a><br>
 [Click] <span style="color:tomato;"><b>Hardware and Algorithm Co-design with Event Sensors</b></span>.
 </summary>
@@ -168,12 +187,9 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </p>
 </details>
 
-- [Ryad Benosman (Univ. Pittsburgh, USA)](https://mirm-pitt.net/our-people/faculty-staff-bios/ryad-benosman-phd/)
-- [Kwabena Boahen (Stanford, USA)](http://web.stanford.edu/group/brainsinsilicon/people.html)
 - [Robert Mahony (Australian National Univ., Australia)](https://cecs.anu.edu.au/people/robert-mahony)
 - [Luca Verre (CEO of Prophesee, France)](https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr)
-
-
+  
 <!-- 
 <details>
 <summary>
