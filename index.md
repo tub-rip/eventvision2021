@@ -115,6 +115,17 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </details>
 <details>
 <summary>
+&#9632; <a href="https://cecs.anu.edu.au/people/robert-mahony">Robert Mahony (Australian National Univ., Australia)</a><br>
+[Click] <span style="color:tomato;"><b>Fusing Frame and Event data for High Dynamic Range Video</b></span>.
+</summary>
+<p>
+<b>Abstract</b>: Event cameras produce data that is inherently high dynamic range and high temporal resolution but is not absolute, that is the actual intensity of a pixel is not directly available. Frame based cameras generate absolute intensity images but suffer from low dynamic range and are subject to low temporal image effects such as image blur. This talk discusses stochastic filtering algorithms for fusing these data sets to generate crisp high dynamic range images.</p>
+
+<p><b>Biography</b>: Robert Mahony is a Professor in the Research School of Engineering at the Australian National University.  He received his BSc in 1989 (applied mathematics and geology) and his PhD in 1995 (systems engineering) both from the Australian National University.  He is a fellow of the IEEE. His research  interests are in non-linear systems theory with applications in robotics and computer vision. He is known for his work in aerial robotics, geometric observer design, robotic vision, and matrix subspace optimisation.
+</p>
+</details>
+<details>
+<summary>
 &#9632; <a href="https://www.iit.it/people/chiara-bartolozzi">Chiara Bartolozzi (IIT, Italy)</a><br>
 [Click] <span style="color:tomato;"><b>Neuromorphic vision for humanoid robots</b></span>.
 </summary>
@@ -187,7 +198,6 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </p>
 </details>
 
-- [Robert Mahony (Australian National Univ., Australia)](https://cecs.anu.edu.au/people/robert-mahony)
 - [Luca Verre (CEO of Prophesee, France)](https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr)
   
 <!-- 
