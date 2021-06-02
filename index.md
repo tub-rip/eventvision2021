@@ -243,8 +243,11 @@ The tentative schedule is the following:
 [We thank our reviewers](slides/CVPRW21_Reviewers_ack.pdf) for a thorough review process.
 
 ### Courtesy presentations                 
+- Yi Zhou (HKUST). Event-based Visual Odometry: A Short Tutorial
+- [Time Lens: Event-based Video Frame Interpolation](https://youtu.be/wEvy11AH9iA)
+
 <div style="text-align: justify">
-  We also invite courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences. 
+  We also welcome courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences. 
   These presentations provide visibility to your work and help to build a community around the topics of the workshop. 
   Please contact the organizers to make arrangements to showcase your work at the workshop.
 </div>
