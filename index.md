@@ -243,7 +243,7 @@ The tentative schedule is the following:
 [We thank our reviewers](slides/CVPRW21_Reviewers_ack.pdf) for a thorough review process.
 
 ### Courtesy presentations                 
-- Yi Zhou (HKUST). Event-based Visual Odometry: A Short Tutorial
+- [Yi Zhou (HKUST). Event-based Visual Odometry: A Short Tutorial](https://youtu.be/U0ghh-7kQy8).  [Slides](slides/CVPRW21_Yi_Zhou_Tutorial.pdf)
 - [Time Lens: Event-based Video Frame Interpolation](https://youtu.be/wEvy11AH9iA)
 
 <div style="text-align: justify">
