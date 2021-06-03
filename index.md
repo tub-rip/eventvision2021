@@ -188,6 +188,8 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <summary>
 &#9632; <a href="https://abisulco.com/about.html">Anthony Bisulco, Daewon Lee, Daniel D. Lee, Volkan Isler (Samsung AI Center NY, USA)</a><br>
 [Click] <span style="color:tomato;"><b>High Speed Perception-Action Systems with Event-Based Cameras</b></span>.
+  <b><a href="https://youtu.be/6ciNkcjV6EI"><span style="color:#159957;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Samsung_AIC-NY.pdf"><span style="color:#159957;">Slides</span></a></b>
 </summary>
 <p>
 <b>Abstract</b>: High-speed perception-action systems are important for mobile robot systems to react in dynamic environments. Event-based cameras have attractive properties for these systems such as high dynamic range, efficient energy use and low latency sensing. At Samsung’s AI Center in NY (SAIC-NY) we have been working on novel DVS-based systems and algorithms to capitalize on these properties. Our previous work in this domain includes a near-chip architecture for low-complexity pedestrian detection on bandwidth-limited networks. In this talk, we will present an overview of our most recent work where the goal is to create high speed perception-action systems for collision avoidance.</p>
@@ -242,9 +244,11 @@ The tentative schedule is the following:
 ## Reviewer Acknowledgement
 [We thank our reviewers](slides/CVPRW21_Reviewers_ack.pdf) for a thorough review process.
 
-### Courtesy presentations                 
-- [Yi Zhou (HKUST). Event-based Visual Odometry: A Short Tutorial](https://youtu.be/U0ghh-7kQy8).  [Slides](slides/CVPRW21_Yi_Zhou_Tutorial.pdf)
-- [Time Lens: Event-based Video Frame Interpolation](https://youtu.be/wEvy11AH9iA)
+### Courtesy presentations
+- [Yi Zhou (HKUST)](https://sites.google.com/view/zhouyi-joey/home). [Event-based Visual Odometry: A Short Tutorial](slides/CVPRW21_Yi_Zhou_Tutorial.pdf).
+  <b><a href="https://youtu.be/U0ghh-7kQy8"><span style="color:#159957;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Yi_Zhou_Tutorial.pdf"><span style="color:#159957;">Slides</span></a></b>
+- [Time Lens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf). <b><a href="https://youtu.be/wEvy11AH9iA"><span style="color:#159957;">Video</span></a>
 
 <div style="text-align: justify">
   We also welcome courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences. 
