@@ -4,8 +4,7 @@
 Starts at **10 am [Eastern Time](https://time.is/ET)**;  4 pm [Europe Time](https://time.is/CET).  
 Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2021.thecvf.com/) 2021.
 
-**Welcome to the Third International Workshop on Event-Based Vision! **  
-
+<b>Welcome to the Third International Workshop on Event-Based Vision!</b>  
 
 ## List of Talks and Speakers
 
