@@ -4,34 +4,11 @@
 Starts at **10 am [Eastern Time](https://time.is/ET)**;  4 pm [Europe Time](https://time.is/CET).  
 Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2021.thecvf.com/) 2021.
 
-**Welcome to the Third International Workshop on Event-Based Vision!**  
+**Welcome to the Third International Workshop on Event-Based Vision! **  
 
-## Objectives
-
-<div style="text-align: justify">
-This workshop is dedicated to event-based cameras, smart cameras, and algorithms processing data from these sensors. Event-based cameras are bio-inspired sensors with the key advantages of microsecond temporal resolution, low latency, very high dynamic range, and low power consumption. Because of these advantages, event-based cameras open frontiers that are unthinkable with standard frame-based cameras (which have been the main sensing technology of the past 60 years). These revolutionary sensors enable the design of a new class of algorithms to track a baseball in the moonlight, build a flying robot with the agility of a fly, and perform structure from motion in challenging lighting conditions and at remarkable speeds. These sensors became commercially available in 2008 and are slowly being adopted in computer vision and robotics. In recent years they have received attention from large companies, e.g. the event-sensor company Prophesee collaborated with Intel and Bosch on a high spatial resolution sensor, Samsung announced mass production of a sensor to be used on hand-held devices, and they have been used in various applications on neuromorphic chips such as IBM’s TrueNorth and Intel’s Loihi. The workshop also considers novel vision sensors, such as pixel processor arrays (PPAs), that perform massively parallel processing near the image plane. Because early vision computations are carried out on-sensor, the resulting systems have high speed and low-power consumption, enabling new embedded vision applications in areas such as robotics, AR/VR, automotive, gaming, surveillance, etc. This workshop will cover the sensing hardware, as well as the processing and learning methods needed to take advantage of the above-mentioned novel cameras.
-</div>
-
-## Topics Covered
-- Event-based / neuromorphic vision.
-- Algorithms: visual odometry, SLAM, 3D reconstruction, optical flow estimation, image intensity reconstruction, recognition, stereo depth reconstruction, feature/object detection, tracking, calibration, sensor fusion (video synthesis, visual-inertial odometry, etc.).
-- Model-based, embedded, or learning approaches.
-- Event-based signal processing, representation, control, bandwidth control.
-- Event-based active vision, event-based sensorimotor integration.
-- Event camera datasets and/or simulators.
-- Applications in: robotics (navigation, manipulation, drones...), automotive, IoT, AR/VR, space science, inspection, surveillance, crowd counting, physics, biology.
-- Near-focal plane processing, such as pixel processor arrays - PPAs (e.g., SCAMP sensor).
-- Biologically-inspired vision and smart cameras.
-- Novel hardware (cameras, neuromorphic processors, etc.) and/or software platforms.
-- New trends and challenges in event-based and/or biologically-inspired vision (SNNs, etc.).
-- Event-based vision for computational photography.
-- A longer list of related topics is available in the table of content of the [List of Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources) 
-
-<!-- ## Invited Speakers  
-TBA
--->
 
 ## List of Talks and Speakers
+
 <details>
 <summary>
 &#9632; <a href="https://engineering.jhu.edu/csms/team/rec/">Ralph Etienne-Cummings (Johns Hopkins Univ., USA)</a><br>
@@ -201,18 +178,19 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </details>
 
 - [Luca Verre (CEO of Prophesee, France)](https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr)
+
+
+### Courtesy presentations
+- [Yi Zhou (HKUST)](https://sites.google.com/view/zhouyi-joey/home). [Event-based Visual Odometry: A Short Tutorial](slides/CVPRW21_Yi_Zhou_Tutorial.pdf).
+  <b><a href="https://youtu.be/U0ghh-7kQy8"><span style="color:#159957;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Yi_Zhou_Tutorial.pdf"><span style="color:#159957;">Slides</span></a></b>
+- [Time Lens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf). <b><a href="https://youtu.be/wEvy11AH9iA"><span style="color:#159957;">Video</span></a>
   
-<!-- 
-<details>
-<summary>
-<b>Title</b>, by <a href="">Speaker (Affiliation)</a>
-</summary>
-<p>
-<b>Abstract</b>:
-<b>Biography</b>: 
-</p>
-</details>
--->
+<div style="text-align: justify">
+  We also welcome courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences. 
+  These presentations provide visibility to your work and help to build a community around the topics of the workshop. 
+  Please contact the organizers to make arrangements to showcase your work at the workshop.
+</div>
 
 ## Schedule
 
@@ -244,17 +222,26 @@ The tentative schedule is the following:
 ## Reviewer Acknowledgement
 [We thank our reviewers](slides/CVPRW21_Reviewers_ack.pdf) for a thorough review process.
 
-### Courtesy presentations
-- [Yi Zhou (HKUST)](https://sites.google.com/view/zhouyi-joey/home). [Event-based Visual Odometry: A Short Tutorial](slides/CVPRW21_Yi_Zhou_Tutorial.pdf).
-  <b><a href="https://youtu.be/U0ghh-7kQy8"><span style="color:#159957;">Video</span></a>, 
-  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Yi_Zhou_Tutorial.pdf"><span style="color:#159957;">Slides</span></a></b>
-- [Time Lens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf). <b><a href="https://youtu.be/wEvy11AH9iA"><span style="color:#159957;">Video</span></a>
+## Objectives
 
 <div style="text-align: justify">
-  We also welcome courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences. 
-  These presentations provide visibility to your work and help to build a community around the topics of the workshop. 
-  Please contact the organizers to make arrangements to showcase your work at the workshop.
+This workshop is dedicated to event-based cameras, smart cameras, and algorithms processing data from these sensors. Event-based cameras are bio-inspired sensors with the key advantages of microsecond temporal resolution, low latency, very high dynamic range, and low power consumption. Because of these advantages, event-based cameras open frontiers that are unthinkable with standard frame-based cameras (which have been the main sensing technology of the past 60 years). These revolutionary sensors enable the design of a new class of algorithms to track a baseball in the moonlight, build a flying robot with the agility of a fly, and perform structure from motion in challenging lighting conditions and at remarkable speeds. These sensors became commercially available in 2008 and are slowly being adopted in computer vision and robotics. In recent years they have received attention from large companies, e.g. the event-sensor company Prophesee collaborated with Intel and Bosch on a high spatial resolution sensor, Samsung announced mass production of a sensor to be used on hand-held devices, and they have been used in various applications on neuromorphic chips such as IBM’s TrueNorth and Intel’s Loihi. The workshop also considers novel vision sensors, such as pixel processor arrays (PPAs), that perform massively parallel processing near the image plane. Because early vision computations are carried out on-sensor, the resulting systems have high speed and low-power consumption, enabling new embedded vision applications in areas such as robotics, AR/VR, automotive, gaming, surveillance, etc. This workshop will cover the sensing hardware, as well as the processing and learning methods needed to take advantage of the above-mentioned novel cameras.
 </div>
+
+## Topics Covered
+- Event-based / neuromorphic vision.
+- Algorithms: visual odometry, SLAM, 3D reconstruction, optical flow estimation, image intensity reconstruction, recognition, stereo depth reconstruction, feature/object detection, tracking, calibration, sensor fusion (video synthesis, visual-inertial odometry, etc.).
+- Model-based, embedded, or learning approaches.
+- Event-based signal processing, representation, control, bandwidth control.
+- Event-based active vision, event-based sensorimotor integration.
+- Event camera datasets and/or simulators.
+- Applications in: robotics (navigation, manipulation, drones...), automotive, IoT, AR/VR, space science, inspection, surveillance, crowd counting, physics, biology.
+- Near-focal plane processing, such as pixel processor arrays - PPAs (e.g., SCAMP sensor).
+- Biologically-inspired vision and smart cameras.
+- Novel hardware (cameras, neuromorphic processors, etc.) and/or software platforms.
+- New trends and challenges in event-based and/or biologically-inspired vision (SNNs, etc.).
+- Event-based vision for computational photography.
+- A longer list of related topics is available in the table of content of the [List of Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources) 
 
 ## Organizers
 - [Guillermo Gallego](http://www.guillermogallego.es), Technische Universität Berlin and Einstein Center Digital Future, Germany.
