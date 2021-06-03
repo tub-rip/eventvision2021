@@ -183,7 +183,7 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 - [Yi Zhou (HKUST)](https://sites.google.com/view/zhouyi-joey/home). [Event-based Visual Odometry: A Short Tutorial](slides/CVPRW21_Yi_Zhou_Tutorial.pdf).
   <b><a href="https://youtu.be/U0ghh-7kQy8"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Yi_Zhou_Tutorial.pdf"><span style="color:#159957;">Slides</span></a></b>
-- [Time Lens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf). <b><a href="https://youtu.be/wEvy11AH9iA"><span style="color:#159957;">Video</span></a>
+- [Time Lens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf). <b><a href="https://youtu.be/wEvy11AH9iA"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPR21_TimeLens_at_CVPRW.pdf"><span style="color:#159957;">Slides</span></a></b>
   
 <div style="text-align: justify">
