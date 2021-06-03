@@ -191,17 +191,6 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
   Please contact the organizers to make arrangements to showcase your work at the workshop.
 </div>
 
-## Schedule
-
-The tentative schedule is the following:
-
-1. Session: Neuromorphic cameras and computing.
-2. Session: Event-based sensors in computer vision.
-3. Session: Algorithms and Architectures.
-4. Session: Industrial companies and applications.
-5. Final Panel Discussion
-
-
 ## Accepted Papers
 - [v2e: From Video Frames to Realistic DVS Events](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events.pdf), and [Suppl mat](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events_supp.zip)
 - [Differentiable Event Stream Simulator for Non-Rigid 3D Tracking](papers/2021CVPRW_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking.pdf), and [Suppl mat](papers/2021CVPRW_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking_supp.pdf)
@@ -221,6 +210,16 @@ The tentative schedule is the following:
 ## Reviewer Acknowledgement
 [We thank our reviewers](slides/CVPRW21_Reviewers_ack.pdf) for a thorough review process.
 
+## Schedule
+
+The tentative schedule is the following:
+
+1. Session: Neuromorphic cameras and computing.
+2. Session: Event-based sensors in computer vision.
+3. Session: Algorithms and Architectures.
+4. Session: Industrial companies and applications.
+5. Final Panel Discussion
+  
 ## Objectives
 
 <div style="text-align: justify">
@@ -248,11 +247,6 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 - [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas), University of Pennsylvania, USA. 
 - [Cornelia Fermüller](http://users.umiacs.umd.edu/~fer), University of Maryland, USA.
 - [Davide Migliore](https://www.linkedin.com/in/davidemigliore), [Prophesee](https://www.prophesee.ai/), France.
-
-## Sponsor
-This workshop is sponsored by event camera manufacturer  
-
-[![sponsor](images/PROPHESEE-Official-Logo.png)](https://www.prophesee.ai/)
 
 ## FAQs
 <ul>
