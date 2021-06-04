@@ -125,6 +125,7 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <summary>
 &#9632; <a href="https://www.kynaneng.com/">Kynan Eng (CEO of iniVation, Switzerland)</a><br>
 [Click] <span style="color:tomato;"><b>High-Performance Neuromorphic Vision: From Core Technologies to Applications</b></span>.
+    <b><a href="https://youtu.be/E1ScHzUUeXA"><span style="color:#159957;">Video</span></a></b>
 </summary>
 <p>
 <b>Abstract</b>: Neuromorphic event-based vision can enable new levels of enhanced vision sensing in situations where current technologies fail. In this presentation, we provide an overview of our technology, our DV open developer environment, and some real-world application examples.</p>
