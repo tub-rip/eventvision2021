@@ -188,8 +188,7 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 - [Yi Zhou (HKUST)](https://sites.google.com/view/zhouyi-joey/home). [Event-based Visual Odometry: A Short Tutorial](https://youtu.be/U0ghh-7kQy8).
   <b><a href="https://youtu.be/U0ghh-7kQy8"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Yi_Zhou_Tutorial.pdf"><span style="color:#159957;">Slides</span></a></b>
-- [Ignacio Alzugaray (V4RL, ETH Zurich)](https://scholar.google.ch/citations?user=IZAZcr4AAAAJ&hl=en). [Towards Asynchronous SLAM with Event Cameras](https://youtu.be/mzwWI3DjMXI).
-  <b><a href="https://youtu.be/mzwWI3DjMXI"><span style="color:#159957;">Video</span></a>, 
+- [Ignacio Alzugaray (V4RL, ETH Zurich)](https://scholar.google.ch/citations?user=IZAZcr4AAAAJ&hl=en). [Towards Asynchronous SLAM with Event Cameras](https://youtu.be/mzwWI3DjMXI). <b><a href="https://youtu.be/mzwWI3DjMXI"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Alzugaray_Chli_Lab.pdf"><span style="color:#159957;">Slides</span></a></b>
 - [Time Lens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf). <b><a href="https://youtu.be/wEvy11AH9iA"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPR21_TimeLens_at_CVPRW.pdf"><span style="color:#159957;">Slides</span></a></b>
