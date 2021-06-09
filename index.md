@@ -199,7 +199,7 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </div>
 
 ## Accepted Papers
-- [v2e: From Video Frames to Realistic DVS Events](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events.pdf), and [Suppl mat](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events_supp.zip)
+- [v2e: From Video Frames to Realistic DVS Events](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events.pdf), and [Suppl mat](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events_supp.zip),  <b><a href="https://youtu.be/VzQ7b5-pLag"><span style="color:#159957;">Video</span></a></b>
 - [Differentiable Event Stream Simulator for Non-Rigid 3D Tracking](papers/2021CVPRW_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking.pdf), and [Suppl mat](papers/2021CVPRW_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking_supp.pdf)
 - [Comparing Representations in Tracking for Event Camera-based SLAM](papers/2021CVPRW_Comparing_Representations_in_Tracking_for_Event_Camera-based_SLAM.pdf)
 - [Image Reconstruction from Neuromorphic Event Cameras using Laplacian-Prediction and Poisson Integration with Spiking and Artificial Neural Networks](papers/2021CVPRW_Image_Reconstruction_from_Neuromorphic_Event_Cameras_using_Laplacian-Prediction.pdf)
