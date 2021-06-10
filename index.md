@@ -60,7 +60,7 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </details>
 <details>
 <summary>
-&#9632; <a href="https://compphotolab.northwestern.edu/">Oliver Cossairt (Northwestern University, USA)</a><br>
+&#9632; <a href="https://compphotolab.northwestern.edu/">Oliver Cossairt (Northwestern Univ., USA)</a><br>
 [Click] <span style="color:tomato;"><b>Hardware and Algorithm Co-design with Event Sensors</b></span>.
     <b><a href="https://youtu.be/0mO55e-5_qs"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Oliver_Cossairt.pdf"><span style="color:#159957;">Slides </span></a></b>
