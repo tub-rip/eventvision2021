@@ -127,6 +127,19 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </details>
 <details>
 <summary>
+&#9632; <a href="https://scholar.google.ch/citations?user=IZAZcr4AAAAJ&hl=en">Ignacio Alzugaray (V4RL, ETH Zurich, Switzerland)</a><br>
+[Click] <span style="color:tomato;"><b>Towards Asynchronous SLAM with Event Cameras</b></span>.
+  <b><a href="https://youtu.be/mzwWI3DjMXI"><span style="color:#159957;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Alzugaray_Chli_Lab.pdf"><span style="color:#159957;">Slides</span></a></b>
+</summary>
+<p>
+<b>Abstract</b>: Event cameras present unique characteristics that make them especially suitable for robust robotic perception such as high temporal resolution, high dynamic range and low power consumption. These sensors, however, produce an asynchronous and sparse stream of events, making the direct application of traditional computer vision algorithms originally designed for frame-based cameras unfeasible. In this talk we will present an overview of the works developed at the Vision for Robotics Lab which are directed towards the development of an efficient and event-driven pipeline for visual SLAM that can fully exploit the asynchronicity and sparsity of the event stream.</p>
+  
+<p><b>Biography</b>: Ignacio Alzugaray is a researcher at ETH Zurich and currently pursuing a PhD in the Vision For Robotics Lab led by Margarita Chli. He obtained a Bacherlor's Degree on Industrial Technologies Engineering at the University of Malaga (2014) and a Master's Degree on Automatic Control and Robotics at the Polytechnic University of Catalonia (2016). His current research is focused on exploring novel event-driven algorithms for visual SLAM in robotic applications.
+</p>
+</details>
+<details>
+<summary>
 &#9632; <a href="https://www.kynaneng.com/">Kynan Eng (CEO of iniVation, Switzerland)</a><br>
 [Click] <span style="color:tomato;"><b>High-Performance Neuromorphic Vision: From Core Technologies to Applications</b></span>.
     <b><a href="https://youtu.be/E1ScHzUUeXA"><span style="color:#159957;">Video</span></a></b>
@@ -188,8 +201,6 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 - [Yi Zhou (HKUST)](https://sites.google.com/view/zhouyi-joey/home). [Event-based Visual Odometry: A Short Tutorial](https://youtu.be/U0ghh-7kQy8).
   <b><a href="https://youtu.be/U0ghh-7kQy8"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Yi_Zhou_Tutorial.pdf"><span style="color:#159957;">Slides</span></a></b>
-- [Ignacio Alzugaray (V4RL, ETH Zurich)](https://scholar.google.ch/citations?user=IZAZcr4AAAAJ&hl=en). [Towards Asynchronous SLAM with Event Cameras](https://youtu.be/mzwWI3DjMXI). <b><a href="https://youtu.be/mzwWI3DjMXI"><span style="color:#159957;">Video</span></a>, 
-  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Alzugaray_Chli_Lab.pdf"><span style="color:#159957;">Slides</span></a></b>
 - [Time Lens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf). <b><a href="https://youtu.be/wEvy11AH9iA"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPR21_TimeLens_at_CVPRW.pdf"><span style="color:#159957;">Slides</span></a></b>
 - [Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy](https://mavlab.tudelft.nl/ssl_e2v/). <b><a href="https://youtu.be/eiIIhY7HeQM"><span style="color:#159957;">Video</span></a></b>  
