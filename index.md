@@ -62,6 +62,8 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <summary>
 &#9632; <a href="https://compphotolab.northwestern.edu/">Oliver Cossairt (Northwestern Univ., USA)</a><br>
 [Click] <span style="color:tomato;"><b>Hardware and Algorithm Co-design with Event Sensors</b></span>.
+    <b><a href="https://youtu.be/0mO55e-5_qs"><span style="color:#159957;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Oliver_Cossairt.pdf"><span style="color:#159957;">Slides </span></a></b>
 </summary>
 <p>
 <b>Abstract</b>: In this talk I will provide an overview of our research developing hardware/software co-designs with event sensors, focusing on methods to fuse together information acquired from multiple sensing modalities for task-specific processing such as image reconstruction, object detection, and tracking. I will discuss three main thrusts of research, 1) extracting 3D information from event data using structured light, and inverse rendering, 2), fusing event sensor data together with conventional frame-based camera images, and 3) a feedback-driven, chip-host architecture built for lightweight on-camera processing equipped with novel data compression algorithms for high-bandwidth, task-specific chip/host communication. Finally, I will wrap up by briefly discussing our current work in-progress developing spiking-based neural network (SNN) algorithms to leverage similar co-design principles.</p>
