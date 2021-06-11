@@ -196,8 +196,18 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <p><b>Biography</b>: Anthony Bisulco is a researcher at the Samsung Artificial Intelligence Center New York, where he works on projects at the intersection of robotics, machine learning and neuroscience. Anthony received a Master of Engineering degree from Cornell University and a Bachelor of Science degree from Northeastern University. Anthony has performed research in a variety of fields at the European Center for Nuclear Research, Sensing, Imaging, Control, and Actuation Laboratory, Google, Massachusetts Institute of Technology Lincoln Laboratories and Brookhaven National Laboratory.
 </p>
 </details>
+<details>
+<summary>
+&#9632; <a href="https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr">Luca Verre (Co-founder and CEO of Prophesee, France)</a><br>
+[Click] <span style="color:tomato;"><b>From the lab to the real world: event-based vision evolves as a commercial force</b></span>.
+</summary>
+<p>
+<b>Abstract</b>: Neuromorphic-based vision has been a popular topic at conferences and technical discussions for many years. Thousands of man years of research have gone into innovative approaches for applying it to applications that improve safety, convenience, automation and efficiency in many aspects of our lives. Today, we are at the cusp of this truly paradigm-shifting approach becoming a commercial reality. From self-driving vehicles, to smart manufacturing and logistics, to scientific research, even space exploration as we have heard from other talks at this conference – we are at the dawn of a new era that will see broader adoption of this technology. At the heart of this movement is Event-Based Vision. By the very fact that we are all gathered for this outstanding event shows the interest and progress we have made, notably by the number of commercial entities who join me as speakers. It is a testament to the dedication of a generation of engineers and researchers in this field. The next step is building on that investment and developing a true ecosystem around the technology. This will require not just companies like Prophesee who implement the core sensors and software to deliver event-based vision as a usable technology, but also a range of software developers, system integrators, distribution partners, academic researchers, standards bodies, even governments to align behind this movement and facilitate even broader adoption.  This presentation will frame that movement against the backdrop of the vast new potential of event-based vision in areas such as industrial automation, security and surveillance, mobile, IoT, health and AR/VR.</p>
 
-- [Luca Verre (CEO of Prophesee, France)](https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr)
+<p><b>Biography</b>: Luca Verre is Co-Founder and CEO of Prophesee, the inventor of the world’s most advanced neuromorphic vision systems. Prophesee’s patented technology is inspired by human vision, giving sight back to the blind and unleashing new safety standards and autonomy to cars, robots and mobile devices.</p>
+  
+<p>Luca is a World Economic Forum Technology Pioneer. He has extensive international management experience in the industrial and electronics sectors. His experience includes project and product management, marketing and business development roles at Schneider Electric. Prior to Schneider Electric, Luca worked as a Research Assistant in Photonics at the Imperial College of London. Luca holds a MSc in Physics, Electronic and Industrial Engineering from Politecnico di Milano and Ecole Centrale and an MBA from INSEAD.</p>
+</details>
 
 
 ### Courtesy presentations
