@@ -75,6 +75,7 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <summary>
 &#9632; <a href="https://www.westernsydney.edu.au/marcs/our_team/researchers/gregory_cohen">Gregory Cohen (Western Sydney Univ., Australia)</a><br>
 [Click] <span style="color:tomato;"><b>Neuromorphic Vision Applications: From Robotic Foosball to Tracking Space Junk</b></span>.
+  <b><a href="https://youtu.be/tiK9idp4aaY"><span style="color:#159957;">Video</span></a></b>
 </summary>
 <p>
 <b>Abstract</b>: Neuromorphic event-based cameras offer a different way to approach visual imaging tasks and really excel at problems in which they can leverage the unique way that the hardware works. This talk will introduce a range of applications for neuromorphic cameras ranging from tracking space junk and satellites to their applications in robotic foosball and pinball. We will demonstrate real-world results from space tracking with event-based cameras, and introduce our Astrosite mobile neuromorphic telescope observatories - built specifically to leverage the benefits of neuromorphic space imaging. We will describe some of the problems with benchmarking and comparing neuromorphic systems, and show how robotic foosball and robotic pinball machines may be a great way to demonstrate the benefits of neuromorphic systems.</p>
