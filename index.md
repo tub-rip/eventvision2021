@@ -217,6 +217,7 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 - [Time Lens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf). <b><a href="https://youtu.be/JRxZ2UxC_VM"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPR21_TimeLens_at_CVPRW.pdf"><span style="color:#159957;">Slides</span></a></b>
 - [Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy](https://mavlab.tudelft.nl/ssl_e2v/). <b><a href="https://youtu.be/eiIIhY7HeQM"><span style="color:#159957;">Video</span></a></b>  
+- [Spatiotemporal Registration for Event-based Visual Odometry](https://arxiv.org/pdf/2103.05955). <b><a href="https://youtu.be/S7ABoOMxytA"><span style="color:#159957;">Video</span></a></b>
   
 <div style="text-align: justify">
   We also welcome courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences. 
