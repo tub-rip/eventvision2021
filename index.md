@@ -174,6 +174,8 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <summary>
 &#9632; <a href="https://www.linkedin.com/in/christian-br%C3%A4ndli-b1418a76/">Christian Brändli (CEO of Sony Advanced Visual Sensing AG, Switzerland)</a><br>
 [Click] <span style="color:tomato;"><b>Event-Based Computer Vision At Sony AVS</b></span>.
+      <b><a href="https://youtu.be/ZCd_OqVKAxM"><span style="color:#159957;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Sony_AVS.pdf"><span style="color:#159957;">Slides</span></a></b>
 </summary>
 <p>
 <b>Abstract</b>: Sony Advanced Visual Sensing is a research center of Sony Semiconductor Solutions, the world leader in image sensors. With a long history in the field, Sony AVS works on event-based vision sensors (EVS) and computer vision algorithms. First, the talk will introduce some core principles of event-based processing which have been gathered over the years. The second part of the talk will then highlight some recent applications of event-based algorithms developed at Sony AVS.</p>
