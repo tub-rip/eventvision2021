@@ -46,7 +46,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>10:20</td>
       <td><a href="https://www.westernsydney.edu.au/marcs/our_team/researchers/gregory_cohen">Gregory Cohen</a>
       <br>(Western Sydney Univ.)</td>
-      <td>Neuromorphic Vision Applications: From Robotic Foosball to Tracking Space Junk, <b><a href="https://youtu.be/tiK9idp4aaY"><span style="color:#159957;">Video</span></a></b></td>
+      <td>Neuromorphic Vision Applications: From Robotic Foosball to Tracking Space Junk, <b><a href="https://youtu.be/tiK9idp4aaY"><span style="color:tomato;">Video</span></a></b></td>
     </tr>
     <tr>
       <td>10:30</td>
@@ -58,7 +58,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>10:40</td>
       <td><a href="https://www.kynaneng.com/">Kynan Eng</a>
       <br>(CEO of iniVation)</td>
-      <td>High-Performance Neuromorphic Vision: From Core Technologies to Applications, <b><a href="https://youtu.be/E1ScHzUUeXA"><span style="color:#159957;">Video</span></a></b></td>
+      <td>High-Performance Neuromorphic Vision: From Core Technologies to Applications, <b><a href="https://youtu.be/E1ScHzUUeXA"><span style="color:tomato;">Video</span></a></b></td>
     </tr>
     <tr>
       <td bgcolor="pink">10:50</td>
@@ -75,8 +75,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td><a href="http://www2.imse-cnm.csic.es/~bernabe/">Bernabé Linares-Barranco</a>
       <br>(IMSE-CNM, CSIC and Univ. Seville)</td>
       <td>Event-driven convolution based processing. 
-        <b><a href="https://youtu.be/JyaNT69GWO0"><span style="color:#159957;">Video</span></a>, 
-           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Bernabe_LinaresBarranco.pdf"><span style="color:#159957;">Slides</span></a></b>
+        <b><a href="https://youtu.be/JyaNT69GWO0"><span style="color:tomato;">Video</span></a>, 
+           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Bernabe_LinaresBarranco.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td><a href="http://web.stanford.edu/group/brainsinsilicon/people.html">Kwabena Boahen</a>
       <br>(Stanford)</td>
       <td>Routing Events in Two-Dimensional Arrays with a Tree. 
-        <b><a href="https://stanford.zoom.us/rec/play/T5VWnEiT3Wn9wTVsInXTwng__8M_JvKE8zEdsSHVBL6XDfJpvILxe3Bfuxva4FASxImU-N2U374lUI3V.9i_zURXctZj08yvg?continueMode=true&_x_zm_rtaid=NAtbaxIbRgKTxE1-72jTLQ.1623707710920.360b8d181286a56fbdf9a60c9b639ecb&_x_zm_rhtaid=866"><span style="color:#159957;">Video</span></a>, <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Kwabena_Boahen.pdf"><span style="color:#159957;">Slides </span></a></b>
+        <b><a href="https://stanford.zoom.us/rec/play/T5VWnEiT3Wn9wTVsInXTwng__8M_JvKE8zEdsSHVBL6XDfJpvILxe3Bfuxva4FASxImU-N2U374lUI3V.9i_zURXctZj08yvg?continueMode=true&_x_zm_rtaid=NAtbaxIbRgKTxE1-72jTLQ.1623707710920.360b8d181286a56fbdf9a60c9b639ecb&_x_zm_rhtaid=866"><span style="color:tomato;">Video</span></a>, <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Kwabena_Boahen.pdf"><span style="color:tomato;">Slides </span></a></b>
       </td>
     </tr>
     <tr>
@@ -92,8 +92,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td><a href="https://engineering.jhu.edu/csms/team/rec/">Ralph Etienne-Cummings</a>
       <br>(Johns Hopkins Univ.)</td>
       <td>Learning Spatiotemporal Filters to Track Event-Based Visual Saliency. 
-        <b><a href="https://youtu.be/rSc8tvdjlhQ"><span style="color:#159957;">Video</span></a>, 
-           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Ralph_Etienne-Cummings.pdf"><span style="color:#159957;">Slides</span></a></b>
+        <b><a href="https://youtu.be/rSc8tvdjlhQ"><span style="color:tomato;">Video</span></a>, 
+           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Ralph_Etienne-Cummings.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
@@ -101,8 +101,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td><a href="https://scholar.google.ch/citations?user=IZAZcr4AAAAJ&hl=en">Ignacio Alzugaray</a>
       <br>(ETH Zurich)</td>
       <td>Towards Asynchronous SLAM with Event Cameras.
-        <b><a href="https://youtu.be/mzwWI3DjMXI"><span style="color:#159957;">Video</span></a>, 
-          <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Alzugaray_Chli_Lab.pdf"><span style="color:#159957;">Slides</span></a></b>      
+        <b><a href="https://youtu.be/mzwWI3DjMXI"><span style="color:tomato;">Video</span></a>, 
+          <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Alzugaray_Chli_Lab.pdf"><span style="color:tomato;">Slides</span></a></b>      
         </td>
     </tr>
     <tr>
@@ -148,8 +148,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td><a href="https://abisulco.com/about.html">Anthony Bisulco, Daewon Lee, Daniel D. Lee, Volkan Isler</a>
         <br>(Samsung AI Center NY)</td>
       <td>High Speed Perception-Action Systems with Event-Based Cameras.
-        <b><a href="https://youtu.be/6ciNkcjV6EI"><span style="color:#159957;">Video</span></a>, 
-           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Samsung_AIC-NY.pdf"><span style="color:#159957;">Slides</span></a></b>
+        <b><a href="https://youtu.be/6ciNkcjV6EI"><span style="color:tomato;">Video</span></a>, 
+           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Samsung_AIC-NY.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
@@ -157,8 +157,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td><a href="http://www.bene-guido.eu/wordpress/">Guido de Croon</a>
         <br>(TU Delft, Netherlands)</td>
       <td>Event-based vision and processing for tiny drones.
-        <b><a href="https://youtu.be/GSJRszrffJI"><span style="color:#159957;">Video</span></a>, 
-           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Guido_de_Croon.pdf"><span style="color:#159957;">Slides </span></a></b>
+        <b><a href="https://youtu.be/GSJRszrffJI"><span style="color:tomato;">Video</span></a>, 
+           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Guido_de_Croon.pdf"><span style="color:tomato;">Slides </span></a></b>
       </td>
     </tr>
     <tr>
@@ -189,8 +189,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td><a href="https://compphotolab.northwestern.edu/">Oliver Cossairt</a>
         <br>(Northwestern Univ.)</td>
       <td>Hardware and Algorithm Co-design with Event Sensors. 
-        <b><a href="https://youtu.be/0mO55e-5_qs"><span style="color:#159957;">Video</span></a>, 
-          <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Oliver_Cossairt.pdf"><span style="color:#159957;">Slides </span></a></b>
+        <b><a href="https://youtu.be/0mO55e-5_qs"><span style="color:tomato;">Video</span></a>, 
+          <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Oliver_Cossairt.pdf"><span style="color:tomato;">Slides </span></a></b>
       </td>
     </tr>
     <tr>
@@ -198,8 +198,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td><a href="https://www3.ntu.edu.sg/home/eechenss/">Shoushun Chen</a>
         <br>(Founder of CelePixel. Will Semiconductor)</td>
       <td>Development of Event-based Sensor and Applications.
-        <b><a href="https://youtu.be/5FBEqOTgxnM"><span style="color:#159957;">Video</span></a>, 
-           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Shoushun_Chen.pdf"><span style="color:#159957;">Slides</span></a></b>
+        <b><a href="https://youtu.be/5FBEqOTgxnM"><span style="color:tomato;">Video</span></a>, 
+           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Shoushun_Chen.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
@@ -432,15 +432,15 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <a name="courtesy-presentations"></a>   
 ### Courtesy Presentations
 - [Yi Zhou (HKUST)](https://sites.google.com/view/zhouyi-joey/home). [Event-based Visual Odometry: A Short Tutorial](https://youtu.be/U0ghh-7kQy8).
-  <b><a href="https://youtu.be/U0ghh-7kQy8"><span style="color:#159957;">Video</span></a>, 
-  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Yi_Zhou_Tutorial.pdf"><span style="color:#159957;">Slides</span></a></b>
-- [Time Lens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf). <b><a href="https://youtu.be/dVLyia-ezvo"><span style="color:#159957;">Video</span></a>, 
-  <a href="http://rpg.ifi.uzh.ch/timelens/slides.pdf"><span style="color:#159957;">Slides</span></a></b>
-- [Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy](https://mavlab.tudelft.nl/ssl_e2v/). <b><a href="https://youtu.be/eiIIhY7HeQM"><span style="color:#159957;">Video</span></a>, 
-  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPR21_BackToEventsBasics_at_CVPRW.pdf"><span style="color:#159957;">Slides</span></a></b>
-- [Spatiotemporal Registration for Event-based Visual Odometry](https://arxiv.org/pdf/2103.05955). <b><a href="https://youtu.be/S7ABoOMxytA"><span style="color:#159957;">Video</span></a></b>
-- [0-MMS: Zero-Shot Multi-Motion Segmentation With A Monocular Event Camera](https://arxiv.org/pdf/2006.06158). <b><a href="https://youtu.be/KdpZkxjp02E"><span style="color:#159957;">Video</span></a></b>
-- [EVPropNet: Detecting Drones By Finding Propellers For Mid-Air Landing And Following](https://youtu.be/QB0W3ZF08QE). <b><a href="https://youtu.be/QB0W3ZF08QE"><span style="color:#159957;">Video</span></a></b>
+  <b><a href="https://youtu.be/U0ghh-7kQy8"><span style="color:tomato;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Yi_Zhou_Tutorial.pdf"><span style="color:tomato;">Slides</span></a></b>
+- [Time Lens: Event-based Video Frame Interpolation](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf). <b><a href="https://youtu.be/dVLyia-ezvo"><span style="color:tomato;">Video</span></a>, 
+  <a href="http://rpg.ifi.uzh.ch/timelens/slides.pdf"><span style="color:tomato;">Slides</span></a></b>
+- [Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy](https://mavlab.tudelft.nl/ssl_e2v/). <b><a href="https://youtu.be/eiIIhY7HeQM"><span style="color:tomato;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPR21_BackToEventsBasics_at_CVPRW.pdf"><span style="color:tomato;">Slides</span></a></b>
+- [Spatiotemporal Registration for Event-based Visual Odometry](https://arxiv.org/pdf/2103.05955). <b><a href="https://youtu.be/S7ABoOMxytA"><span style="color:tomato;">Video</span></a></b>
+- [0-MMS: Zero-Shot Multi-Motion Segmentation With A Monocular Event Camera](https://arxiv.org/pdf/2006.06158). <b><a href="https://youtu.be/KdpZkxjp02E"><span style="color:tomato;">Video</span></a></b>
+- [EVPropNet: Detecting Drones By Finding Propellers For Mid-Air Landing And Following](https://youtu.be/QB0W3ZF08QE). <b><a href="https://youtu.be/QB0W3ZF08QE"><span style="color:tomato;">Video</span></a></b>
   
 <div style="text-align: justify">
   We also welcome courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences. 
@@ -450,23 +450,23 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 
 <a name="accepted-papers"></a>   
 ## Accepted Papers
-- [v2e: From Video Frames to Realistic DVS Events](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events.pdf), and [Suppl mat](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events_supp.zip),  <b><a href="https://youtu.be/VzQ7b5-pLag"><span style="color:#159957;">Video</span></a></b>
+- [v2e: From Video Frames to Realistic DVS Events](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events.pdf), and [Suppl mat](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events_supp.zip),  <b><a href="https://youtu.be/VzQ7b5-pLag"><span style="color:tomato;">Video</span></a></b>
 - [Differentiable Event Stream Simulator for Non-Rigid 3D Tracking](papers/2021CVPRW_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking.pdf), and [Suppl mat](papers/2021CVPRW_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking_supp.pdf)
 - [Comparing Representations in Tracking for Event Camera-based SLAM](papers/2021CVPRW_Comparing_Representations_in_Tracking_for_Event_Camera-based_SLAM.pdf), 
-<b><a href="https://youtu.be/O1ow7c_OlDQ"><span style="color:#159957;">Video</span></a>, 
-  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Comparing_Representations_in_Tracking.pdf"><span style="color:#159957;">Slides</span></a></b>
-- [Image Reconstruction from Neuromorphic Event Cameras using Laplacian-Prediction and Poisson Integration with Spiking and Artificial Neural Networks](papers/2021CVPRW_Image_Reconstruction_from_Neuromorphic_Event_Cameras_using_Laplacian-Prediction.pdf), <b><a href="https://youtu.be/CoocgoUhxvU"><span style="color:#159957;">Video</span></a>, 
-  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Image_Reconstruction_from_Laplacian_prediction.pdf"><span style="color:#159957;">Slides</span></a></b>
+<b><a href="https://youtu.be/O1ow7c_OlDQ"><span style="color:tomato;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Comparing_Representations_in_Tracking.pdf"><span style="color:tomato;">Slides</span></a></b>
+- [Image Reconstruction from Neuromorphic Event Cameras using Laplacian-Prediction and Poisson Integration with Spiking and Artificial Neural Networks](papers/2021CVPRW_Image_Reconstruction_from_Neuromorphic_Event_Cameras_using_Laplacian-Prediction.pdf), <b><a href="https://youtu.be/CoocgoUhxvU"><span style="color:tomato;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Image_Reconstruction_from_Laplacian_prediction.pdf"><span style="color:tomato;">Slides</span></a></b>
 - [Detecting Stable Keypoints from Events through Image Gradient Prediction](papers/2021CVPRW_Detecting_Stable_Keypoints_from_Events_through_Image_Gradient_Prediction.pdf)
 - [EFI-Net: Video Frame Interpolation from Fusion of Events and Frames](papers/2021CVPRW_EFI-Net_Video_Frame_Interpolation_from_Fusion_of_Events_and_Frames.pdf), and [Suppl. mat](papers/2021CVPRW_EFI-Net_Video_Frame_Interpolation_from_Fusion_of_Events_and_Frames_supp.zip)
-<b><a href="https://youtu.be/hrfsDOL18pw"><span style="color:#159957;">Video</span></a>, 
-  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_EFINet.pdf"><span style="color:#159957;">Slides</span></a></b>
-- [DVS-OUTLAB: A Neuromorphic Event-Based Long Time Monitoring Dataset for Real-World Outdoor Scenarios](papers/2021CVPRW_DVS-OUTLAB_A_Neuromorphic_Event-Based_Long_Time_Monitoring_Dataset.pdf),  <b><a href="https://youtu.be/4wV0ejrcDo0"><span style="color:#159957;">Video</span></a></b>
-- [N-ROD: a Neuromorphic Dataset for Synthetic-to-Real Domain Adaptation](papers/2021CVPRW_N-ROD_A_Neuromorphic_Dataset_for_Synthetic-to-Real_Domain_Adaptation.pdf), <b><a href="https://youtu.be/IOZl8MxrfpQ"><span style="color:#159957;">Video</span></a>, 
-  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_NROD_poster.pdf"><span style="color:#159957;">Poster</span></a></b>
+<b><a href="https://youtu.be/hrfsDOL18pw"><span style="color:tomato;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_EFINet.pdf"><span style="color:tomato;">Slides</span></a></b>
+- [DVS-OUTLAB: A Neuromorphic Event-Based Long Time Monitoring Dataset for Real-World Outdoor Scenarios](papers/2021CVPRW_DVS-OUTLAB_A_Neuromorphic_Event-Based_Long_Time_Monitoring_Dataset.pdf),  <b><a href="https://youtu.be/4wV0ejrcDo0"><span style="color:tomato;">Video</span></a></b>
+- [N-ROD: a Neuromorphic Dataset for Synthetic-to-Real Domain Adaptation](papers/2021CVPRW_N-ROD_A_Neuromorphic_Dataset_for_Synthetic-to-Real_Domain_Adaptation.pdf), <b><a href="https://youtu.be/IOZl8MxrfpQ"><span style="color:tomato;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_NROD_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
 - [Lifting Monocular Events to 3D Human Poses](papers/2021CVPRW_Lifting_Monocular_Events_to_3D_Human_Poses.pdf)
-- [A Cortically-inspired Architecture for Event-based Visual Motion Processing: From Design Principles to Real-world Applications](papers/2021CVPRW_A_Cortically-inspired_Architecture_for_Event-based_Visual_Motion_Processing.pdf), <b><a href="https://youtu.be/KyS_h8i9HpM"><span style="color:#159957;">Video</span></a></b>
-- [Spike timing-based unsupervised learning of orientation, disparity, and motion representations in a spiking neural network](papers/2021CVPRW_Spike_timing-based_unsupervised_learning_of_orientation_disparity_and_motion_representations.pdf), and [Suppl mat](papers/2021CVPRW_Spike_timing-based_unsupervised_learning_of_orientation_disparity_and_motion_representations_supp.pdf),  <b><a href="https://youtu.be/TL567P70L68"><span style="color:#159957;">Video</span></a></b>
+- [A Cortically-inspired Architecture for Event-based Visual Motion Processing: From Design Principles to Real-world Applications](papers/2021CVPRW_A_Cortically-inspired_Architecture_for_Event-based_Visual_Motion_Processing.pdf), <b><a href="https://youtu.be/KyS_h8i9HpM"><span style="color:tomato;">Video</span></a></b>
+- [Spike timing-based unsupervised learning of orientation, disparity, and motion representations in a spiking neural network](papers/2021CVPRW_Spike_timing-based_unsupervised_learning_of_orientation_disparity_and_motion_representations.pdf), and [Suppl mat](papers/2021CVPRW_Spike_timing-based_unsupervised_learning_of_orientation_disparity_and_motion_representations_supp.pdf),  <b><a href="https://youtu.be/TL567P70L68"><span style="color:tomato;">Video</span></a></b>
 - [Feedback control of event cameras](papers/2021CVPRW_Feedback_control_of_event_cameras.pdf)
 - [How to Calibrate Your Event Camera](papers/2021CVPRW_How_to_Calibrate_Your_Event_Camera.pdf)
 - [Live Demonstration: Incremental Motion Estimation for Event-based Cameras by Dispersion Minimisation](papers/2021CVPRW_Live_Demonstration_Incremental_Motion_Estimation_for_Event-based_Cameras_by_Dispersion_Minimisation.pdf)
