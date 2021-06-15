@@ -21,8 +21,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
   <thead>
     <tr>
       <th>Time EST</th>
-      <th>Speaker</th>
-      <th>Title</th>
+      <th>SPEAKER</th>
+      <th>TITLE</th>
     </tr>  
   </thead>
   <tbody>
