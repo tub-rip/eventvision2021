@@ -29,7 +29,12 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td>10:00</td>
       <td></td>
-      <td>Workshop opening</td>
+      <td><b>Workshop opening</b></td>
+    </tr>
+    <tr>
+      <td bgcolor="LightGray">10:10</td>
+      <td bgcolor="LightGray"><b>SESSION 1</b></td>
+      <td bgcolor="LightGray"></td>
     </tr>
     <tr>
       <td>10:10</td>
@@ -61,6 +66,11 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td bgcolor="pink"><b>Panel discussion</b></td>
     </tr>
     <tr>
+      <td bgcolor="LightGray">11:10</td>
+      <td bgcolor="LightGray"><b>SESSION 2</b></td>
+      <td bgcolor="LightGray"></td>
+    </tr>    
+    <tr>
       <td>11:10</td>
       <td><a href="http://www2.imse-cnm.csic.es/~bernabe/">Bernabé Linares-Barranco</a>
       <br>(IMSE-CNM, CSIC and Univ. Seville)</td>
@@ -90,7 +100,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>11:40</td>
       <td><a href="https://scholar.google.ch/citations?user=IZAZcr4AAAAJ&hl=en">Ignacio Alzugaray</a>
       <br>(ETH Zurich)</td>
-      <td>Towards Asynchronous SLAM with Event Cameras,
+      <td>Towards Asynchronous SLAM with Event Cameras.
         <b><a href="https://youtu.be/mzwWI3DjMXI"><span style="color:#159957;">Video</span></a>, 
           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Alzugaray_Chli_Lab.pdf"><span style="color:#159957;">Slides</span></a></b>      
         </td>
@@ -100,6 +110,11 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td bgcolor="pink"></td>
       <td bgcolor="pink"><b>Panel discussion</b></td>
     </tr>
+    <tr>
+      <td bgcolor="LightGray">14:00</td>
+      <td bgcolor="LightGray"><b>INTERMISSION</b></td>
+      <td bgcolor="LightGray"></td>
+    </tr>    
     <tr>
       <td>12:10</td>
       <td>Mathias Gehrig</td>
@@ -113,8 +128,14 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td bgcolor="gold">12:30</td>
       <td bgcolor="gold">Gatherly session</td>
-      <td bgcolor="gold"><b>Poster session of accepted papers and courtesy presentations</b></td>
+      <td bgcolor="gold"><b>Poster session of <a href="#accepted-papers">accepted papers</a> 
+        and <a href="#courtesy-presentations">courtesy presentations</a></b></td>
     </tr>
+    <tr>
+      <td bgcolor="LightGray">14:00</td>
+      <td bgcolor="LightGray"><b>SESSION 3</b></td>
+      <td bgcolor="LightGray"></td>
+    </tr>    
     <tr>
       <td>14:00</td>
       <td><a href="https://www.intel.com/content/www/us/en/research/researchers/yulia-sandamirskaya.html">Yulia Sandamirskaya</a>
@@ -135,7 +156,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>14:20</td>
       <td><a href="http://www.bene-guido.eu/wordpress/">Guido de Croon</a>
         <br>(TU Delft, Netherlands)</td>
-      <td>Event-based vision and processing for tiny drones
+      <td>Event-based vision and processing for tiny drones.
         <b><a href="https://youtu.be/GSJRszrffJI"><span style="color:#159957;">Video</span></a>, 
            <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Guido_de_Croon.pdf"><span style="color:#159957;">Slides </span></a></b>
       </td>
@@ -152,6 +173,11 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td bgcolor="pink"></td>
       <td bgcolor="pink"><b>Panel discussion</b></td>
     </tr>
+    <tr>
+      <td bgcolor="LightGray">15:00</td>
+      <td bgcolor="LightGray"><b>SESSION 4</b></td>
+      <td bgcolor="LightGray"></td>
+    </tr>    
     <tr>
       <td>15:00</td>
       <td><a href="https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr">Luca Verre</a>
@@ -190,7 +216,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td>16:00</td>
       <td></td>
-      <td>The End</td>
+      <td><b>The End</b></td>
     </tr>
   </tbody>
 </table>
@@ -403,8 +429,8 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 
 -->
 
-
-### Courtesy presentations
+<a name="courtesy-presentations"></a>   
+### Courtesy Presentations
 - [Yi Zhou (HKUST)](https://sites.google.com/view/zhouyi-joey/home). [Event-based Visual Odometry: A Short Tutorial](https://youtu.be/U0ghh-7kQy8).
   <b><a href="https://youtu.be/U0ghh-7kQy8"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Yi_Zhou_Tutorial.pdf"><span style="color:#159957;">Slides</span></a></b>
@@ -422,6 +448,7 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
   Please contact the organizers to make arrangements to showcase your work at the workshop.
 </div>
 
+<a name="accepted-papers"></a>   
 ## Accepted Papers
 - [v2e: From Video Frames to Realistic DVS Events](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events.pdf), and [Suppl mat](papers/2021CVPRW_V2E_From_Video_Frames_to_Realistic_DVS_Events_supp.zip),  <b><a href="https://youtu.be/VzQ7b5-pLag"><span style="color:#159957;">Video</span></a></b>
 - [Differentiable Event Stream Simulator for Non-Rigid 3D Tracking](papers/2021CVPRW_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking.pdf), and [Suppl mat](papers/2021CVPRW_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking_supp.pdf)
