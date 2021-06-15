@@ -241,6 +241,8 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Image_Reconstruction_from_Laplacian_prediction.pdf"><span style="color:#159957;">Slides</span></a></b>
 - [Detecting Stable Keypoints from Events through Image Gradient Prediction](papers/2021CVPRW_Detecting_Stable_Keypoints_from_Events_through_Image_Gradient_Prediction.pdf)
 - [EFI-Net: Video Frame Interpolation from Fusion of Events and Frames](papers/2021CVPRW_EFI-Net_Video_Frame_Interpolation_from_Fusion_of_Events_and_Frames.pdf), and [Suppl. mat](papers/2021CVPRW_EFI-Net_Video_Frame_Interpolation_from_Fusion_of_Events_and_Frames_supp.zip)
+<b><a href="https://youtu.be/hrfsDOL18pw"><span style="color:#159957;">Video</span></a>, 
+  <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_EFINet.pdf"><span style="color:#159957;">Slides</span></a></b>
 - [DVS-OUTLAB: A Neuromorphic Event-Based Long Time Monitoring Dataset for Real-World Outdoor Scenarios](papers/2021CVPRW_DVS-OUTLAB_A_Neuromorphic_Event-Based_Long_Time_Monitoring_Dataset.pdf),  <b><a href="https://youtu.be/4wV0ejrcDo0"><span style="color:#159957;">Video</span></a></b>
 - [N-ROD: a Neuromorphic Dataset for Synthetic-to-Real Domain Adaptation](papers/2021CVPRW_N-ROD_A_Neuromorphic_Dataset_for_Synthetic-to-Real_Domain_Adaptation.pdf), <b><a href="https://youtu.be/IOZl8MxrfpQ"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_NROD_poster.pdf"><span style="color:#159957;">Poster</span></a></b>
