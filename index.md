@@ -96,9 +96,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
         </td>
     </tr>
     <tr>
-      <td>11:50</td>
-      <td></td>
-      <td><b>Panel discussion</b></td>
+      <td bgcolor="pink">11:50</td>
+      <td bgcolor="pink"></td>
+      <td bgcolor="pink"><b>Panel discussion</b></td>
     </tr>
     <tr>
       <td>12:10</td>
@@ -111,9 +111,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>Award Ceremony</td>
     </tr>
     <tr>
-      <td>12:30</td>
-      <td>Gatherly session</td>
-      <td><b>Poster session of accepted papers and courtesy presentations</b></td>
+      <td bgcolor="gold">12:30</td>
+      <td bgcolor="gold">Gatherly session</td>
+      <td bgcolor="gold"><b>Poster session of accepted papers and courtesy presentations</b></td>
     </tr>
     <tr>
       <td>14:00</td>
@@ -148,9 +148,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       </td>
     </tr>
     <tr>
-      <td>14:40</td>
-      <td></td>
-      <td><b>Panel discussion</b></td>
+      <td bgcolor="pink">14:40</td>
+      <td bgcolor="pink"></td>
+      <td bgcolor="pink"><b>Panel discussion</b></td>
     </tr>
     <tr>
       <td>15:00</td>
@@ -183,9 +183,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>Event-Based Computer Vision At Sony AVS</td>
     </tr>
     <tr>
-      <td>15:40</td>
-      <td></td>
-      <td><b>Panel discussion</b></td>
+      <td bgcolor="pink">15:40</td>
+      <td bgcolor="pink"></td>
+      <td bgcolor="pink"><b>Panel discussion</b></td>
     </tr>    
     <tr>
       <td>16:00</td>
