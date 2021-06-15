@@ -425,7 +425,7 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 -->
 
 <a name="courtesy-presentations"></a>   
-### Courtesy Presentations
+## Courtesy Presentations
 - [Yi Zhou (HKUST)](https://sites.google.com/view/zhouyi-joey/home). [Event-based Visual Odometry: A Short Tutorial](https://youtu.be/U0ghh-7kQy8).
   <b><a href="https://youtu.be/U0ghh-7kQy8"><span style="color:tomato;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Yi_Zhou_Tutorial.pdf"><span style="color:tomato;">Slides</span></a></b>
