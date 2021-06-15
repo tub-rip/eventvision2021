@@ -6,7 +6,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 <b>Welcome to the Third International Workshop on Event-Based Vision!</b>  
 
-## List of Talks and Speakers
+## Invited Speakers
+
+![speakers](images/workshop_speakers_60.jpg)
 
 <details>
 <summary>
