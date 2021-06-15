@@ -61,9 +61,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>High-Performance Neuromorphic Vision: From Core Technologies to Applications, <b><a href="https://youtu.be/E1ScHzUUeXA"><span style="color:tomato;">Video</span></a></b></td>
     </tr>
     <tr>
-      <td bgcolor="Lavender">10:50</td>
-      <td bgcolor="Lavender"></td>
-      <td bgcolor="Lavender"><b>Panel discussion</b></td>
+      <td bgcolor="Pink">10:50</td>
+      <td bgcolor="Pink"></td>
+      <td bgcolor="Pink"><b>Panel discussion</b></td>
     </tr>
     <tr>
       <td bgcolor="LightGray">11:10</td>
@@ -106,9 +106,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
         </td>
     </tr>
     <tr>
-      <td bgcolor="Lavender">11:50</td>
-      <td bgcolor="Lavender"></td>
-      <td bgcolor="Lavender"><b>Panel discussion</b></td>
+      <td bgcolor="Pink">11:50</td>
+      <td bgcolor="Pink"></td>
+      <td bgcolor="Pink"><b>Panel discussion</b></td>
     </tr>
     <tr>
       <td bgcolor="LightGray">14:00</td>
@@ -169,9 +169,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       </td>
     </tr>
     <tr>
-      <td bgcolor="Lavender">14:40</td>
-      <td bgcolor="Lavender"></td>
-      <td bgcolor="Lavender"><b>Panel discussion</b></td>
+      <td bgcolor="Pink">14:40</td>
+      <td bgcolor="Pink"></td>
+      <td bgcolor="Pink"><b>Panel discussion</b></td>
     </tr>
     <tr>
       <td bgcolor="LightGray">15:00</td>
@@ -209,9 +209,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>Event-Based Computer Vision At Sony AVS</td>
     </tr>
     <tr>
-      <td bgcolor="Lavender">15:40</td>
-      <td bgcolor="Lavender"></td>
-      <td bgcolor="Lavender"><b>Panel discussion</b></td>
+      <td bgcolor="Pink">15:40</td>
+      <td bgcolor="Pink"></td>
+      <td bgcolor="Pink"><b>Panel discussion</b></td>
     </tr>    
     <tr>
       <td>16:00</td>
