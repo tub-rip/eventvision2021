@@ -213,11 +213,6 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td bgcolor="Pink"></td>
       <td bgcolor="Pink"><b>Panel discussion</b></td>
     </tr>    
-    <tr>
-      <td>16:00</td>
-      <td></td>
-      <td><b>The End</b></td>
-    </tr>
   </tbody>
 </table>
 
