@@ -33,32 +33,37 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td>10:10</td>
-      <td><a href="https://mirm-pitt.net/our-people/faculty-staff-bios/ryad-benosman-phd/">Ryad Benosman (University of Pittsburgh / Carnegie Mellon Univeristy / Sorbonne)</a></td>
+      <td><a href="https://mirm-pitt.net/our-people/faculty-staff-bios/ryad-benosman-phd/">Ryad Benosman</a>
+      <br>(University of Pittsburgh, CMU, Sorbonne)</td>
       <td>Event Computer Vision 10 years Assessment: Where We Came From, Where We Are and Where We Are Heading To</td>
     </tr>
     <tr>
       <td>10:20</td>
-      <td><a href="https://www.westernsydney.edu.au/marcs/our_team/researchers/gregory_cohen">Gregory Cohen (Western Sydney Univ., Australia)</a></td>
+      <td><a href="https://www.westernsydney.edu.au/marcs/our_team/researchers/gregory_cohen">Gregory Cohen</a>
+      <br>(Western Sydney Univ.)</td>
       <td>Neuromorphic Vision Applications: From Robotic Foosball to Tracking Space Junk, <b><a href="https://youtu.be/tiK9idp4aaY"><span style="color:#159957;">Video</span></a></b></td>
     </tr>
     <tr>
       <td>10:30</td>
-      <td><a href="https://cecs.anu.edu.au/people/robert-mahony">Robert Mahony (Australian National Univ., Australia)</a></td>
+      <td><a href="https://cecs.anu.edu.au/people/robert-mahony">Robert Mahony</a>
+        <br>(Australian National Univ.)</td>
       <td>Fusing Frame and Event data for High Dynamic Range Video</td>
     </tr>
     <tr>
       <td>10:40</td>
-      <td><a href="https://www.kynaneng.com/">Kynan Eng (CEO of iniVation, Switzerland)</a></td>
+      <td><a href="https://www.kynaneng.com/">Kynan Eng</a>
+      <br>(CEO of iniVation)</td>
       <td>High-Performance Neuromorphic Vision: From Core Technologies to Applications, <b><a href="https://youtu.be/E1ScHzUUeXA"><span style="color:#159957;">Video</span></a></b></td>
     </tr>
     <tr>
-      <td>10:50</td>
-      <td></td>
-      <td><b>Panel discussion</b></td>
+      <td bgcolor="pink">10:50</td>
+      <td bgcolor="pink"></td>
+      <td bgcolor="pink"><b>Panel discussion</b></td>
     </tr>
     <tr>
       <td>11:10</td>
-      <td><a href="http://www2.imse-cnm.csic.es/~bernabe/">Bernabé Linares-Barranco (IMSE-CNM, CSIC and Univ. Seville, Spain)</a></td>
+      <td><a href="http://www2.imse-cnm.csic.es/~bernabe/">Bernabé Linares-Barranco</a>
+      <br>(IMSE-CNM, CSIC and Univ. Seville)</td>
       <td>Event-driven convolution based processing. 
         <b><a href="https://youtu.be/JyaNT69GWO0"><span style="color:#159957;">Video</span></a>, 
            <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Bernabe_LinaresBarranco.pdf"><span style="color:#159957;">Slides</span></a></b>
@@ -66,14 +71,16 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td>11:20</td>
-      <td><a href="http://web.stanford.edu/group/brainsinsilicon/people.html">Kwabena Boahen (Stanford, USA)</a></td>
+      <td><a href="http://web.stanford.edu/group/brainsinsilicon/people.html">Kwabena Boahen</a>
+      <br>(Stanford)</td>
       <td>Routing Events in Two-Dimensional Arrays with a Tree. 
         <b><a href="https://stanford.zoom.us/rec/play/T5VWnEiT3Wn9wTVsInXTwng__8M_JvKE8zEdsSHVBL6XDfJpvILxe3Bfuxva4FASxImU-N2U374lUI3V.9i_zURXctZj08yvg?continueMode=true&_x_zm_rtaid=NAtbaxIbRgKTxE1-72jTLQ.1623707710920.360b8d181286a56fbdf9a60c9b639ecb&_x_zm_rhtaid=866"><span style="color:#159957;">Video</span></a>, <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Kwabena_Boahen.pdf"><span style="color:#159957;">Slides </span></a></b>
       </td>
     </tr>
     <tr>
       <td>11:30</td>
-      <td><a href="https://engineering.jhu.edu/csms/team/rec/">Ralph Etienne-Cummings (Johns Hopkins Univ., USA)</a></td>
+      <td><a href="https://engineering.jhu.edu/csms/team/rec/">Ralph Etienne-Cummings</a>
+      <br>(Johns Hopkins Univ.)</td>
       <td>Learning Spatiotemporal Filters to Track Event-Based Visual Saliency. 
         <b><a href="https://youtu.be/rSc8tvdjlhQ"><span style="color:#159957;">Video</span></a>, 
            <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Ralph_Etienne-Cummings.pdf"><span style="color:#159957;">Slides</span></a></b>
@@ -81,7 +88,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td>11:40</td>
-      <td><a href="https://scholar.google.ch/citations?user=IZAZcr4AAAAJ&hl=en">Ignacio Alzugaray (V4RL, ETH Zurich, Switzerland)</a></td>
+      <td><a href="https://scholar.google.ch/citations?user=IZAZcr4AAAAJ&hl=en">Ignacio Alzugaray</a>
+      <br>(ETH Zurich)</td>
       <td>Towards Asynchronous SLAM with Event Cameras,
         <b><a href="https://youtu.be/mzwWI3DjMXI"><span style="color:#159957;">Video</span></a>, 
           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Alzugaray_Chli_Lab.pdf"><span style="color:#159957;">Slides</span></a></b>      
@@ -109,13 +117,15 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td>14:00</td>
-      <td><a href="https://www.intel.com/content/www/us/en/research/researchers/yulia-sandamirskaya.html">Yulia Sandamirskaya (Intel Labs, Germany)</a></td>
+      <td><a href="https://www.intel.com/content/www/us/en/research/researchers/yulia-sandamirskaya.html">Yulia Sandamirskaya</a>
+      <br>(Intel Labs)</td>
       <td>Neuromorphic computing hardware and event based vision: a perfect match?</span>
       </td>
     </tr>
     <tr>
       <td>14:10</td>
-      <td><a href="https://abisulco.com/about.html">Anthony Bisulco, Daewon Lee, Daniel D. Lee, Volkan Isler (Samsung AI Center NY, USA)</a></td>
+      <td><a href="https://abisulco.com/about.html">Anthony Bisulco, Daewon Lee, Daniel D. Lee, Volkan Isler</a>
+        <br>(Samsung AI Center NY)</td>
       <td>High Speed Perception-Action Systems with Event-Based Cameras.
         <b><a href="https://youtu.be/6ciNkcjV6EI"><span style="color:#159957;">Video</span></a>, 
            <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Samsung_AIC-NY.pdf"><span style="color:#159957;">Slides</span></a></b>
@@ -123,7 +133,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td>14:20</td>
-      <td><a href="http://www.bene-guido.eu/wordpress/">Guido de Croon (TU Delft, Netherlands)</a></td>
+      <td><a href="http://www.bene-guido.eu/wordpress/">Guido de Croon</a>
+        <br>(TU Delft, Netherlands)</td>
       <td>Event-based vision and processing for tiny drones
         <b><a href="https://youtu.be/GSJRszrffJI"><span style="color:#159957;">Video</span></a>, 
            <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Guido_de_Croon.pdf"><span style="color:#159957;">Slides </span></a></b>
@@ -131,7 +142,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td>14:30</td>
-      <td><a href="https://www.iit.it/people/chiara-bartolozzi">Chiara Bartolozzi (IIT, Italy)</a></td>
+      <td><a href="https://www.iit.it/people/chiara-bartolozzi">Chiara Bartolozzi</a>
+        <br>(IIT, Italy)</td>
       <td>Neuromorphic vision for humanoid robots
       </td>
     </tr>
@@ -142,12 +154,14 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td>15:00</td>
-      <td><a href="https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr">Luca Verre (Co-founder and CEO of Prophesee, France)</a></td>
+      <td><a href="https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr">Luca Verre</a>
+        <br>(Co-founder and CEO of Prophesee)</td>
       <td>From the lab to the real world: event-based vision evolves as a commercial force</td>
     </tr>
     <tr>
       <td>15:10</td>
-      <td><a href="https://compphotolab.northwestern.edu/">Oliver Cossairt (Northwestern Univ., USA)</a></td>
+      <td><a href="https://compphotolab.northwestern.edu/">Oliver Cossairt</a>
+        <br>(Northwestern Univ.)</td>
       <td>Hardware and Algorithm Co-design with Event Sensors. 
         <b><a href="https://youtu.be/0mO55e-5_qs"><span style="color:#159957;">Video</span></a>, 
           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Oliver_Cossairt.pdf"><span style="color:#159957;">Slides </span></a></b>
@@ -155,7 +169,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td>15:20</td>
-      <td><a href="https://www3.ntu.edu.sg/home/eechenss/">Shoushun Chen (Founder of CelePixel. Will Semiconductor, China)</a></td>
+      <td><a href="https://www3.ntu.edu.sg/home/eechenss/">Shoushun Chen</a>
+        <br>(Founder of CelePixel. Will Semiconductor)</td>
       <td>Development of Event-based Sensor and Applications.
         <b><a href="https://youtu.be/5FBEqOTgxnM"><span style="color:#159957;">Video</span></a>, 
            <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Shoushun_Chen.pdf"><span style="color:#159957;">Slides</span></a></b>
@@ -163,7 +178,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td>15:30</td>
-      <td><a href="https://www.linkedin.com/in/christian-br%C3%A4ndli-b1418a76/">Christian Brändli (CEO of Sony Advanced Visual Sensing AG, Switzerland)</a></td>
+      <td><a href="https://www.linkedin.com/in/christian-br%C3%A4ndli-b1418a76/">Christian Brändli</a>
+        <br>(CEO of Sony Advanced Visual Sensing AG)</td>
       <td>Event-Based Computer Vision At Sony AVS</td>
     </tr>
     <tr>
