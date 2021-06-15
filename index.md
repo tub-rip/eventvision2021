@@ -61,9 +61,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>High-Performance Neuromorphic Vision: From Core Technologies to Applications, <b><a href="https://youtu.be/E1ScHzUUeXA"><span style="color:tomato;">Video</span></a></b></td>
     </tr>
     <tr>
-      <td bgcolor="LavenderBlush">10:50</td>
-      <td bgcolor="LavenderBlush"></td>
-      <td bgcolor="LavenderBlush"><b>Panel discussion</b></td>
+      <td bgcolor="Lavender">10:50</td>
+      <td bgcolor="Lavender"></td>
+      <td bgcolor="Lavender"><b>Panel discussion</b></td>
     </tr>
     <tr>
       <td bgcolor="LightGray">11:10</td>
@@ -106,9 +106,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
         </td>
     </tr>
     <tr>
-      <td bgcolor="LavenderBlush">11:50</td>
-      <td bgcolor="LavenderBlush"></td>
-      <td bgcolor="LavenderBlush"><b>Panel discussion</b></td>
+      <td bgcolor="Lavender">11:50</td>
+      <td bgcolor="Lavender"></td>
+      <td bgcolor="Lavender"><b>Panel discussion</b></td>
     </tr>
     <tr>
       <td bgcolor="LightGray">14:00</td>
@@ -169,9 +169,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       </td>
     </tr>
     <tr>
-      <td bgcolor="LavenderBlush">14:40</td>
-      <td bgcolor="LavenderBlush"></td>
-      <td bgcolor="LavenderBlush"><b>Panel discussion</b></td>
+      <td bgcolor="Lavender">14:40</td>
+      <td bgcolor="Lavender"></td>
+      <td bgcolor="Lavender"><b>Panel discussion</b></td>
     </tr>
     <tr>
       <td bgcolor="LightGray">15:00</td>
@@ -209,9 +209,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>Event-Based Computer Vision At Sony AVS</td>
     </tr>
     <tr>
-      <td bgcolor="LavenderBlush">15:40</td>
-      <td bgcolor="LavenderBlush"></td>
-      <td bgcolor="LavenderBlush"><b>Panel discussion</b></td>
+      <td bgcolor="Lavender">15:40</td>
+      <td bgcolor="Lavender"></td>
+      <td bgcolor="Lavender"><b>Panel discussion</b></td>
     </tr>    
     <tr>
       <td>16:00</td>
@@ -521,6 +521,8 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 
 ## Previous Related Workshops
 <ul>
+  <li><a href="https://sites.google.com/view/onsvp-icra-2021-workshop/home">ICRA 2021 Workshop On- and Near-sensor Vision Processing, 
+from Photons to Applications (ONSVP)</a>.</li>
   <li><a href="https://robotics.sydney.edu.au/icra-workshop/">ICRA 2020 Workshop on Sensing, Estimating and Understanding the Dynamic World. Session on Event-based camera companies iniVation and Prophesee</a>.</li>
   <li><a href="http://rpg.ifi.uzh.ch/CVPR19_event_vision_workshop.html">CVPR 2019 Second International Workshop on Event-based Vision and Smart Cameras</a>.</li>
   <li><a href="https://www.jmartel.net/irosws-home">IROS 2018 Workshop on Unconventional Sensing and Processing for Robotic Visual Perception</a>.</li>
