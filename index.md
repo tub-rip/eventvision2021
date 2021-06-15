@@ -213,7 +213,8 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 </details>
 
 
-### Courtesy presentations
+### 
+sentations
 - [Yi Zhou (HKUST)](https://sites.google.com/view/zhouyi-joey/home). [Event-based Visual Odometry: A Short Tutorial](https://youtu.be/U0ghh-7kQy8).
   <b><a href="https://youtu.be/U0ghh-7kQy8"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Yi_Zhou_Tutorial.pdf"><span style="color:#159957;">Slides</span></a></b>
@@ -222,6 +223,8 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 - [Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy](https://mavlab.tudelft.nl/ssl_e2v/). <b><a href="https://youtu.be/eiIIhY7HeQM"><span style="color:#159957;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPR21_BackToEventsBasics_at_CVPRW.pdf"><span style="color:#159957;">Slides</span></a></b>
 - [Spatiotemporal Registration for Event-based Visual Odometry](https://arxiv.org/pdf/2103.05955). <b><a href="https://youtu.be/S7ABoOMxytA"><span style="color:#159957;">Video</span></a></b>
+- [0-MMS: Zero-Shot Multi-Motion Segmentation With A Monocular Event Camera](https://arxiv.org/pdf/2006.06158). <b><a href="https://youtu.be/KdpZkxjp02E"><span style="color:#159957;">Video</span></a></b>
+- [EVPropNet: Detecting Drones By Finding Propellers For Mid-Air Landing And Following](https://youtu.be/arvvuyhW_jI). <b><a href="https://youtu.be/arvvuyhW_jI"><span style="color:#159957;">Video</span></a></b>
   
 <div style="text-align: justify">
   We also welcome courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences. 
