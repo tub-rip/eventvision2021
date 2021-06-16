@@ -205,8 +205,11 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td>15:30</td>
       <td><a href="https://www.linkedin.com/in/christian-br%C3%A4ndli-b1418a76/">Christian Brändli</a>
-        <br>(CEO of Sony Advanced Visual Sensing AG)</td>
-      <td>Event-Based Computer Vision At Sony AVS</td>
+        <br>(CEO of Sony AVS)</td>
+      <td>Event-Based Computer Vision At Sony Advanced Visual Sensing. 
+        <b><a href="https://youtu.be/p5kjt0jsuNg"><span style="color:tomato;">Video</span></a>, 
+           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Sony_AVS.pdf"><span style="color:tomato;">Slides</span></a></b>
+      </td>
     </tr>
     <tr>
       <td bgcolor="Pink">15:40</td>
