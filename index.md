@@ -185,7 +185,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>14:00</td>
       <td><a href="https://www.intel.com/content/www/us/en/research/researchers/yulia-sandamirskaya.html">Yulia Sandamirskaya</a>
       <br>(Intel Labs)</td>
-      <td>Neuromorphic computing hardware and event based vision: a perfect match?</span>
+      <td>Neuromorphic computing hardware and event based vision: a perfect match?
       </td>
     </tr>
     <tr>
