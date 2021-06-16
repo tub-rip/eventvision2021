@@ -118,7 +118,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td>12:10</td>
       <td>Mathias Gehrig</td>
-      <td><a href="https://dsec.ifi.uzh.ch/cvprw-2021-competition/">DSEC competition</a></td>
+      <td><a href="https://dsec.ifi.uzh.ch/cvpr-2021-competition-results/">DSEC competition</a></td>
     </tr>
     <tr>
       <td>12:20</td>
