@@ -132,16 +132,16 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td bgcolor="yellow"> </td>
-      <td bgcolor="yellow"><a href="https://sites.google.com/view/zhouyi-joey/home">Yi Zhou</a> (HKUST)</td>
-      <td bgcolor="yellow">Event-based Visual Odometry: A Short Tutorial</a>.
+      <td bgcolor="yellow"><a href="https://sites.google.com/view/zhouyi-joey/home">Yi Zhou</a> <br>(HKUST)</td>
+      <td bgcolor="yellow">Event-based Visual Odometry: A Short Tutorial.
         <b><a href="https://youtu.be/U0ghh-7kQy8"><span style="color:tomato;">Video</span></a>, 
            <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Yi_Zhou_Tutorial.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
       <td bgcolor="yellow"> </td>
-      <td bgcolor="yellow"><a href="https://www.linkedin.com/in/stepan-tulyakov-phd-a2324331/?originalSubdomain=ch">Tulyakov</a> 
-        and <a href="https://danielgehrig18.github.io/">Gehrig</a></td>
+      <td bgcolor="yellow"><a href="https://www.linkedin.com/in/stepan-tulyakov-phd-a2324331/?originalSubdomain=ch">S. Tulyakov</a> (Huawei)
+        and <br><a href="https://danielgehrig18.github.io/">D. Gehrig</a> (UZH)</td>
       <td bgcolor="yellow"><a href="http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf">Time Lens: Event-based Video Frame Interpolation</a>.
         <b><a href="https://youtu.be/dVLyia-ezvo"><span style="color:tomato;">Video</span></a>, 
            <a href="http://rpg.ifi.uzh.ch/timelens/slides.pdf"><span style="color:tomato;">Slides</span></a></b>
@@ -149,7 +149,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td bgcolor="yellow"> </td>
-      <td bgcolor="yellow"><a href="https://www.linkedin.com/in/fedeparedesv/?originalSubdomain=nl">Federico Paredes-Vallés</a></td>
+      <td bgcolor="yellow"><a href="https://www.linkedin.com/in/fedeparedesv/?originalSubdomain=nl">Federico Paredes-Vallés</a> <br>(TU Delft)</td>
       <td bgcolor="yellow"><a href="https://mavlab.tudelft.nl/ssl_e2v/">Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy</a>.
         <b><a href="https://youtu.be/eiIIhY7HeQM"><span style="color:tomato;">Video</span></a>, 
            <a href="https://tub-rip.github.io/eventvision2021/slides/CVPR21_BackToEventsBasics_at_CVPRW.pdf"><span style="color:tomato;">Slides</span></a></b>
@@ -157,21 +157,21 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td bgcolor="yellow"> </td>
-      <td bgcolor="yellow"><a href="https://sites.google.com/view/daqiliu/home">Daqi Liu</a></td>
+      <td bgcolor="yellow"><a href="https://sites.google.com/view/daqiliu/home">Daqi Liu</a> <br>(U. Adelaide)</td>
       <td bgcolor="yellow"><a href="https://arxiv.org/pdf/2103.05955">Spatiotemporal Registration for Event-based Visual Odometry</a>.
         <b><a href="https://youtu.be/S7ABoOMxytA"><span style="color:tomato;">Video</span></a></b>
       </td>
     </tr>
     <tr>
       <td bgcolor="yellow"> </td>
-      <td bgcolor="yellow"><a href="http://users.umiacs.umd.edu/~fer">Cornelia Fermüller</a></td>
+      <td bgcolor="yellow"><a href="http://users.umiacs.umd.edu/~fer">Cornelia Fermüller</a> <br>(U. Maryland)</td>
       <td bgcolor="yellow"><a href="https://arxiv.org/pdf/2006.06158">0-MMS: Zero-Shot Multi-Motion Segmentation With A Monocular Event Camera</a>.
         <b><a href="https://youtu.be/KdpZkxjp02E"><span style="color:tomato;">Video</span></a></b>
       </td>
     </tr>    
     <tr>
       <td bgcolor="yellow"> </td>
-      <td bgcolor="yellow"><a href="http://users.umiacs.umd.edu/~fer">Cornelia Fermüller</a></td>
+      <td bgcolor="yellow"><a href="http://users.umiacs.umd.edu/~fer">Cornelia Fermüller</a> <br>(U. Maryland)</td>
       <td bgcolor="yellow">EVPropNet: Detecting Drones By Finding Propellers For Mid-Air Landing And Following.
         <b><a href="https://youtu.be/QB0W3ZF08QE"><span style="color:tomato;">Video</span></a></b>
       </td>
