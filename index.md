@@ -84,7 +84,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td><a href="http://web.stanford.edu/group/brainsinsilicon/people.html">Kwabena Boahen</a>
       <br>(Stanford)</td>
       <td>Routing Events in Two-Dimensional Arrays with a Tree. 
-        <b><a href="https://stanford.zoom.us/rec/play/T5VWnEiT3Wn9wTVsInXTwng__8M_JvKE8zEdsSHVBL6XDfJpvILxe3Bfuxva4FASxImU-N2U374lUI3V.9i_zURXctZj08yvg?continueMode=true&_x_zm_rtaid=NAtbaxIbRgKTxE1-72jTLQ.1623707710920.360b8d181286a56fbdf9a60c9b639ecb&_x_zm_rhtaid=866"><span style="color:tomato;">Video</span></a>, <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Kwabena_Boahen.pdf"><span style="color:tomato;">Slides </span></a></b>
+        <b><a href="https://youtu.be/H2ofs_3rd0Q"><span style="color:tomato;">Video</span></a>, <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Kwabena_Boahen.pdf"><span style="color:tomato;">Slides </span></a></b>
       </td>
     </tr>
     <tr>
