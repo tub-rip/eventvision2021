@@ -128,8 +128,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td bgcolor="yellow">12:30</td>
       <td bgcolor="yellow">Gatherly session</td>
-      <td bgcolor="yellow"><b>Poster session of <a href="#accepted-papers">accepted papers</a> 
-        and <a href="#courtesy-presentations">courtesy presentations</a></b></td>
+      <td bgcolor="yellow"><b>Poster session of <a href="#accepted-papers">accepted papers</a> and courtesy presentations</b></td>
     </tr>
     <tr>
       <td bgcolor="yellow"> </td>
@@ -165,14 +164,14 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td bgcolor="yellow"> </td>
-      <td bgcolor="yellow"><a href="https://sites.google.com/view/zhouyi-joey/home">Cornelia Fermüller</a></td>
+      <td bgcolor="yellow"><a href="http://users.umiacs.umd.edu/~fer">Cornelia Fermüller</a></td>
       <td bgcolor="yellow"><a href="https://arxiv.org/pdf/2006.06158">0-MMS: Zero-Shot Multi-Motion Segmentation With A Monocular Event Camera</a>.
         <b><a href="https://youtu.be/KdpZkxjp02E"><span style="color:tomato;">Video</span></a></b>
       </td>
     </tr>    
     <tr>
       <td bgcolor="yellow"> </td>
-      <td bgcolor="yellow"><a href="https://sites.google.com/view/zhouyi-joey/home">Cornelia Fermüller</a></td>
+      <td bgcolor="yellow"><a href="http://users.umiacs.umd.edu/~fer">Cornelia Fermüller</a></td>
       <td bgcolor="yellow">EVPropNet: Detecting Drones By Finding Propellers For Mid-Air Landing And Following.
         <b><a href="https://youtu.be/QB0W3ZF08QE"><span style="color:tomato;">Video</span></a></b>
       </td>
@@ -471,7 +470,7 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 <p>Luca is a World Economic Forum Technology Pioneer. He has extensive international management experience in the industrial and electronics sectors. His experience includes project and product management, marketing and business development roles at Schneider Electric. Prior to Schneider Electric, Luca worked as a Research Assistant in Photonics at the Imperial College of London. Luca holds a MSc in Physics, Electronic and Industrial Engineering from Politecnico di Milano and Ecole Centrale and an MBA from INSEAD.</p>
 </details>
 
--->
+
 
 <a name="courtesy-presentations"></a>   
 ## Courtesy Presentations
@@ -491,6 +490,8 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
   These presentations provide visibility to your work and help to build a community around the topics of the workshop. 
   Please contact the organizers to make arrangements to showcase your work at the workshop.
 </div>
+
+-->
 
 <a name="accepted-papers"></a>   
 ## Accepted Papers
