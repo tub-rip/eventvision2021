@@ -564,7 +564,12 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
   <li><b>Where can I find more information?</b> Check out this <a href="https://github.com/uzh-rpg/event-based_vision_resources">List of Event-based Vision Resources</a>.</li>
 </ul>
 
-## Previous Related Workshops
+## Upcoming Related Workshops
+<ul>
+  <li><a href="https://tub-rip.github.io/eventvision2021/slides/ICCV2021Tutorial.pdf">ICCV 2021 Tutorial. Introduction to Event Detection Cameras</a>.</li>
+</ul>
+
+## Past Related Workshops
 <ul>
   <li><a href="https://sites.google.com/view/onsvp-icra-2021-workshop/home">ICRA 2021 Workshop On- and Near-sensor Vision Processing, 
 from Photons to Applications (ONSVP)</a>.</li>
