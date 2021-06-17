@@ -40,7 +40,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>10:10</td>
       <td><a href="https://mirm-pitt.net/our-people/faculty-staff-bios/ryad-benosman-phd/">Ryad Benosman</a>
       <br>(University of Pittsburgh, CMU, Sorbonne)</td>
-      <td>Event Computer Vision 10 years Assessment: Where We Came From, Where We Are and Where We Are Heading To</td>
+      <td>Event Computer Vision 10 years Assessment: Where We Came From, Where We Are and Where We Are Heading To. 
+      <b><a href="https://youtu.be/LdfMTDS9rqI"><span style="color:tomato;">Video</span></a></b>
+      </td>
     </tr>
     <tr>
       <td>10:20</td>
@@ -214,7 +216,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>14:30</td>
       <td><a href="https://www.iit.it/people/chiara-bartolozzi">Chiara Bartolozzi</a>
         <br>(IIT, Italy)</td>
-      <td>Neuromorphic vision for humanoid robots
+      <td>Neuromorphic vision for humanoid robots. 
+        <b><a href="https://youtu.be/HiEkQO4PM0Y"><span style="color:tomato;">Video</span></a></b>
       </td>
     </tr>
     <tr>
@@ -506,14 +509,15 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Comparing_Representations_in_Tracking.pdf"><span style="color:tomato;">Slides</span></a></b>
 - [Image Reconstruction from Neuromorphic Event Cameras using Laplacian-Prediction and Poisson Integration with Spiking and Artificial Neural Networks](papers/2021CVPRW_Image_Reconstruction_from_Neuromorphic_Event_Cameras_using_Laplacian-Prediction.pdf), <b><a href="https://youtu.be/CoocgoUhxvU"><span style="color:tomato;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Image_Reconstruction_from_Laplacian_prediction.pdf"><span style="color:tomato;">Slides</span></a></b>
-- [Detecting Stable Keypoints from Events through Image Gradient Prediction](papers/2021CVPRW_Detecting_Stable_Keypoints_from_Events_through_Image_Gradient_Prediction.pdf)
+- [Detecting Stable Keypoints from Events through Image Gradient Prediction](papers/2021CVPRW_Detecting_Stable_Keypoints_from_Events_through_Image_Gradient_Prediction.pdf). <b><a href="https://youtu.be/Rrkwxp8J18c"><span style="color:tomato;">Video</span></a></b>
 - [EFI-Net: Video Frame Interpolation from Fusion of Events and Frames](papers/2021CVPRW_EFI-Net_Video_Frame_Interpolation_from_Fusion_of_Events_and_Frames.pdf), and [Suppl. mat](papers/2021CVPRW_EFI-Net_Video_Frame_Interpolation_from_Fusion_of_Events_and_Frames_supp.zip)
 <b><a href="https://youtu.be/hrfsDOL18pw"><span style="color:tomato;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_EFINet.pdf"><span style="color:tomato;">Slides</span></a></b>
 - [DVS-OUTLAB: A Neuromorphic Event-Based Long Time Monitoring Dataset for Real-World Outdoor Scenarios](papers/2021CVPRW_DVS-OUTLAB_A_Neuromorphic_Event-Based_Long_Time_Monitoring_Dataset.pdf),  <b><a href="https://youtu.be/4wV0ejrcDo0"><span style="color:tomato;">Video</span></a></b>
 - [N-ROD: a Neuromorphic Dataset for Synthetic-to-Real Domain Adaptation](papers/2021CVPRW_N-ROD_A_Neuromorphic_Dataset_for_Synthetic-to-Real_Domain_Adaptation.pdf), <b><a href="https://youtu.be/IOZl8MxrfpQ"><span style="color:tomato;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_NROD_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
-- [Lifting Monocular Events to 3D Human Poses](papers/2021CVPRW_Lifting_Monocular_Events_to_3D_Human_Poses.pdf)
+- [Lifting Monocular Events to 3D Human Poses](papers/2021CVPRW_Lifting_Monocular_Events_to_3D_Human_Poses.pdf). 
+<b><a href="https://youtu.be/nwWh3MKdOEM"><span style="color:tomato;">Video</span></a></b>
 - [A Cortically-inspired Architecture for Event-based Visual Motion Processing: From Design Principles to Real-world Applications](papers/2021CVPRW_A_Cortically-inspired_Architecture_for_Event-based_Visual_Motion_Processing.pdf), <b><a href="https://youtu.be/KyS_h8i9HpM"><span style="color:tomato;">Video</span></a></b>
 - [Spike timing-based unsupervised learning of orientation, disparity, and motion representations in a spiking neural network](papers/2021CVPRW_Spike_timing-based_unsupervised_learning_of_orientation_disparity_and_motion_representations.pdf), and [Suppl mat](papers/2021CVPRW_Spike_timing-based_unsupervised_learning_of_orientation_disparity_and_motion_representations_supp.pdf),  <b><a href="https://youtu.be/TL567P70L68"><span style="color:tomato;">Video</span></a></b>
 - [Feedback control of event cameras](papers/2021CVPRW_Feedback_control_of_event_cameras.pdf)
