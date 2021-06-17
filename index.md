@@ -52,13 +52,17 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>10:30</td>
       <td><a href="https://cecs.anu.edu.au/people/robert-mahony">Robert Mahony</a>
         <br>(Australian National Univ.)</td>
-      <td>Fusing Frame and Event data for High Dynamic Range Video</td>
+      <td>Fusing Frame and Event data for High Dynamic Range Video,
+        <b><a href="https://arxiv.org/pdf/2012.05590"><span style="color:tomato;">Paper</span></a></b>
+      </td>
     </tr>
     <tr>
       <td>10:40</td>
       <td><a href="https://www.kynaneng.com/">Kynan Eng</a>
       <br>(CEO of iniVation)</td>
-      <td>High-Performance Neuromorphic Vision: From Core Technologies to Applications, <b><a href="https://youtu.be/E1ScHzUUeXA"><span style="color:tomato;">Video</span></a></b></td>
+      <td>High-Performance Neuromorphic Vision: From Core Technologies to Applications, 
+        <b><a href="https://youtu.be/E1ScHzUUeXA"><span style="color:tomato;">Video</span></a></b>
+      </td>
     </tr>
     <tr>
       <td bgcolor="Pink">10:50</td>
