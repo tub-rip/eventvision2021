@@ -6,7 +6,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 <b>Welcome to the Third International Workshop on Event-Based Vision!</b>  
 
-<b><a href="https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7"><span style="color:tomato;">*** Watch here all videos! (YouTube Playlist) ***</span></a></b>
+<b><a href="https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7"><span style="color:tomato;"> WATCH HERE all videos! (YouTube Playlist)</span></a></b>
 
 ## Invited Speakers
 
@@ -184,6 +184,14 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
         <b><a href="https://youtu.be/QB0W3ZF08QE"><span style="color:tomato;">Video</span></a></b>
       </td>
     </tr>  
+    <tr>
+      <td bgcolor="LemonChiffon"> </td>
+      <td bgcolor="LemonChiffon"><a href="https://www.oculi.ai">Joe Maljian</a> <br>(Oculi, Inc)</td>
+      <td bgcolor="LemonChiffon">Oculi products portfolio.
+        <b><a href="https://youtu.be/MToCww2G14Y"><span style="color:tomato;">Video</span></a>, 
+           <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Oculi.pdf"><span style="color:tomato;">Slides</span></a></b>
+      </td>
+    </tr>
     <tr>
       <td bgcolor="LightGray">14:00</td>
       <td bgcolor="LightGray"><b>SESSION 3</b></td>
