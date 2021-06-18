@@ -2,9 +2,11 @@
 
 **June 19, 2021, Saturday. 1st day of CVPR**. Virtual workshop.  
 Starts at **10 am [Eastern Time](https://time.is/ET)**;  4 pm [Europe Time](https://time.is/CET).  
-Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2021.thecvf.com/) 2021.
+Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2021.thecvf.com/) 2021.  
 
 <b>Welcome to the Third International Workshop on Event-Based Vision!</b>  
+
+<b><a href="https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7"><span style="color:tomato;">Watch here all videos! YouTube Playlist</span></a></b>
 
 ## Invited Speakers
 
