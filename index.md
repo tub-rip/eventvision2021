@@ -6,7 +6,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 <b>Welcome to the Third International Workshop on Event-Based Vision!</b>  
 
-<b><a href="https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7"><span style="color:tomato;">Watch here all videos! YouTube Playlist</span></a></b>
+<b><a href="https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7"><span style="color:tomato;">*** Watch here all videos! (YouTube Playlist) ***</span></a></b>
 
 ## Invited Speakers
 
@@ -236,7 +236,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>15:00</td>
       <td><a href="https://www.linkedin.com/in/luca-verre-71b6a75/?originalSubdomain=fr">Luca Verre</a>
         <br>(Co-founder and CEO of Prophesee)</td>
-      <td>From the lab to the real world: event-based vision evolves as a commercial force</td>
+      <td>From the lab to the real world: event-based vision evolves as a commercial force.
+        <b><a href="https://youtu.be/CFdwBVawVkM"><span style="color:tomato;">Video</span></a></b>
+      </td>
     </tr>
     <tr>
       <td>15:10</td>
