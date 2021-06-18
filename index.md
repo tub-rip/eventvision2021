@@ -524,8 +524,10 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 - [How to Calibrate Your Event Camera](papers/2021CVPRW_How_to_Calibrate_Your_Event_Camera.pdf). <b><a href="https://github.com/uzh-rpg/e2calib"><span style="color:tomato;">Project page</span></a></b>
 - [Live Demonstration: Incremental Motion Estimation for Event-based Cameras by Dispersion Minimisation](papers/2021CVPRW_Live_Demonstration_Incremental_Motion_Estimation_for_Event-based_Cameras_by_Dispersion_Minimisation.pdf)
 
+
 ## Reviewer Acknowledgement
 [We thank our reviewers](slides/CVPRW21_Reviewers_ack.pdf) for a thorough review process.
+
 
 ## Objectives
 
