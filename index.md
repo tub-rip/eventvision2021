@@ -31,7 +31,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td>10:00</td>
       <td></td>
-      <td><b>Workshop opening</b></td>
+      <td><b>Welcome and Organization</b></td>
     </tr>
     <tr>
       <td bgcolor="LightGray">10:10</td>
