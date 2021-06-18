@@ -517,11 +517,11 @@ Since June 1991, he has been a Tenured Scientist at the "Instituto de Microelect
 - [N-ROD: a Neuromorphic Dataset for Synthetic-to-Real Domain Adaptation](papers/2021CVPRW_N-ROD_A_Neuromorphic_Dataset_for_Synthetic-to-Real_Domain_Adaptation.pdf), <b><a href="https://youtu.be/IOZl8MxrfpQ"><span style="color:tomato;">Video</span></a>, 
   <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_NROD_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
 - [Lifting Monocular Events to 3D Human Poses](papers/2021CVPRW_Lifting_Monocular_Events_to_3D_Human_Poses.pdf). 
-<b><a href="https://youtu.be/nwWh3MKdOEM"><span style="color:tomato;">Video</span></a></b>
+<b><a href="https://youtu.be/nwWh3MKdOEM"><span style="color:tomato;">Video</span></a>, <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Scarpellini.pdf"><span style="color:tomato;">Slides</span></a></b>
 - [A Cortically-inspired Architecture for Event-based Visual Motion Processing: From Design Principles to Real-world Applications](papers/2021CVPRW_A_Cortically-inspired_Architecture_for_Event-based_Visual_Motion_Processing.pdf), <b><a href="https://youtu.be/KyS_h8i9HpM"><span style="color:tomato;">Video</span></a></b>
 - [Spike timing-based unsupervised learning of orientation, disparity, and motion representations in a spiking neural network](papers/2021CVPRW_Spike_timing-based_unsupervised_learning_of_orientation_disparity_and_motion_representations.pdf), and [Suppl mat](papers/2021CVPRW_Spike_timing-based_unsupervised_learning_of_orientation_disparity_and_motion_representations_supp.pdf),  <b><a href="https://youtu.be/TL567P70L68"><span style="color:tomato;">Video</span></a></b>
 - [Feedback control of event cameras](papers/2021CVPRW_Feedback_control_of_event_cameras.pdf)
-- [How to Calibrate Your Event Camera](papers/2021CVPRW_How_to_Calibrate_Your_Event_Camera.pdf)
+- [How to Calibrate Your Event Camera](papers/2021CVPRW_How_to_Calibrate_Your_Event_Camera.pdf). <b><a href="https://github.com/uzh-rpg/e2calib"><span style="color:tomato;">Project page</span></a></b>
 - [Live Demonstration: Incremental Motion Estimation for Event-based Cameras by Dispersion Minimisation](papers/2021CVPRW_Live_Demonstration_Incremental_Motion_Estimation_for_Event-based_Cameras_by_Dispersion_Minimisation.pdf)
 
 ## Reviewer Acknowledgement
