@@ -35,7 +35,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td>10:00</td>
       <td></td>
-      <td><b>Welcome and Organization</b></td>
+      <td><b> <a href="https://docs.google.com/presentation/d/16EFWpCE6m1-MouNW8ko2ZSR1QeE14h0gycDQSOeE1IE/edit?usp=sharing"> Welcome and Organization (Slides)</a></b></td>
     </tr>
     <tr>
       <td bgcolor="LightGray">10:10</td>
