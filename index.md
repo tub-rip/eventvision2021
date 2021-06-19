@@ -137,11 +137,11 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td>12:20</td>
       <td></td>
-      <td>Award Ceremony</td>
+      <td><a hred="https://docs.google.com/presentation/d/1YS5RhClP6uyuGbep7q2KwuPvA93nEgvesyKxe8NW_2U/edit?usp=sharing">Award Ceremony</a></td>
     </tr>
     <tr>
       <td bgcolor="LemonChiffon">12:30</td>
-      <td bgcolor="LemonChiffon"><b><a href="https://cvpr2021workshops19.event.gatherly.io/">GATHERLY LINK session</a></b></td>
+      <td bgcolor="LemonChiffon"></td>
       <td bgcolor="LemonChiffon"><b>Poster session of <a href="#accepted-papers">accepted papers</a> and courtesy presentations</b></td>
     </tr>
     <tr>
