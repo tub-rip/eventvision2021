@@ -56,8 +56,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td>10:30</td>
       <td><a href="https://cecs.anu.edu.au/people/robert-mahony">Robert Mahony</a>
         <br>(Australian National Univ.)</td>
-      <td>Fusing Frame and Event data for High Dynamic Range Video,
-        <b><a href="https://arxiv.org/pdf/2012.05590"><span style="color:tomato;">Paper</span></a></b>
+      <td>Fusing Frame and Event data for High Dynamic Range Video. 
+        <b><a href="https://youtu.be/BIvp86yFTYE"><span style="color:tomato;">Video</span></a>, 
+          <a href="https://arxiv.org/pdf/2012.05590"><span style="color:tomato;">Paper</span></a></b>
       </td>
     </tr>
     <tr>
