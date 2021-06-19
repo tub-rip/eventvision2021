@@ -58,6 +58,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
         <br>(Australian National Univ.)</td>
       <td>Fusing Frame and Event data for High Dynamic Range Video. 
         <b><a href="https://youtu.be/BIvp86yFTYE"><span style="color:tomato;">Video</span></a>, 
+          <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Robert_Mahony.pdf"><span style="color:tomato;">Slides</span></a>, 
           <a href="https://arxiv.org/pdf/2012.05590"><span style="color:tomato;">Paper</span></a></b>
       </td>
     </tr>
