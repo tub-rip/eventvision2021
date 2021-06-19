@@ -136,7 +136,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     </tr>
     <tr>
       <td bgcolor="LemonChiffon">12:30</td>
-      <td bgcolor="LemonChiffon">Gatherly session</td>
+      <td bgcolor="LemonChiffon"><b><a href="https://cvpr2021workshops19.event.gatherly.io/">GATHERLY LINK session</a></b></td>
       <td bgcolor="LemonChiffon"><b>Poster session of <a href="#accepted-papers">accepted papers</a> and courtesy presentations</b></td>
     </tr>
     <tr>
