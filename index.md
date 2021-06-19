@@ -575,6 +575,11 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 - [Cornelia Fermüller](http://users.umiacs.umd.edu/~fer), University of Maryland, USA.
 - [Davide Migliore](https://www.linkedin.com/in/davidemigliore), [Prophesee](https://www.prophesee.ai/), France.
 
+## Sponsor
+This workshop is sponsored by event camera manufacturer  
+
+[![sponsor](images/PROPHESEE-Official-Logo.png)](https://www.prophesee.ai/)
+
 ## FAQs
 <ul>
   <li><b>What is an event camera?</b> Watch this <a href="https://youtu.be/LauQ6LWTkxM">video explanation</a>.</li>
