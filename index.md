@@ -125,7 +125,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td bgcolor="Pink"><b>Panel discussion</b></td>
     </tr>
     <tr>
-      <td bgcolor="LightGray">14:00</td>
+      <td bgcolor="LightGray">12:10</td>
       <td bgcolor="LightGray"><b>INTERMISSION</b></td>
       <td bgcolor="LightGray"></td>
     </tr>    
