@@ -294,6 +294,10 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
   </tbody>
 </table>
 
+
+![imagen](images/CVPRW21_EventVision_Live.jpg)
+
+
 <!-- Replaced by the table above
 
 <details>
