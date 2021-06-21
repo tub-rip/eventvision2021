@@ -604,6 +604,8 @@ This workshop is sponsored by event camera manufacturer
 
 ## Upcoming Related Workshops
 <ul>
+  <li><a href="https://sites.google.com/view/tellurideneuromorphic2021/home">2021 Telluride Neuromorphic workshop. Starting on Sunday June 27th.</a></br>
+  <a href="https://sites.google.com/view/tellurideneuromorphic2021/registration">Register for free</a></li>
   <li><a href="https://tub-rip.github.io/eventvision2021/slides/ICCV2021Tutorial.pdf">ICCV 2021 Tutorial. Introduction to Event Detection Cameras</a>.</li>
 </ul>
 
