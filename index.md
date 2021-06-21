@@ -32,12 +32,14 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td>10:00</td>
       <td></td>
-      <td><b> <a href="https://docs.google.com/presentation/d/16EFWpCE6m1-MouNW8ko2ZSR1QeE14h0gycDQSOeE1IE/edit?usp=sharing"> Welcome and Organization (Slides)</a></b></td>
+      <td><b><a href="https://docs.google.com/presentation/d/16EFWpCE6m1-MouNW8ko2ZSR1QeE14h0gycDQSOeE1IE/edit?usp=sharing"> Welcome and Organization</a>,
+        <a href="https://youtu.be/JyaNT69GWO0"><span style="color:tomato;">Video</span></a>, 
+        <a href="https://docs.google.com/presentation/d/16EFWpCE6m1-MouNW8ko2ZSR1QeE14h0gycDQSOeE1IE/edit?usp=sharing"><span style="color:tomato;">Slides</span></a></b></td>
     </tr>
     <tr>
       <td bgcolor="LightGray">10:10</td>
       <td bgcolor="LightGray"><b>SESSION 1</b></td>
-      <td bgcolor="LightGray"></td>
+      <td bgcolor="LightGray"><b><a href="https://youtu.be/odgWVzYn-5Y"><span style="color:tomato;">VIDEO OF LIVE SESSION</span></a></b></td>
     </tr>
     <tr>
       <td>10:10</td>
@@ -79,7 +81,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td bgcolor="LightGray">11:10</td>
       <td bgcolor="LightGray"><b>SESSION 2</b></td>
-      <td bgcolor="LightGray"></td>
+      <td bgcolor="LightGray"><b><a href="https://youtu.be/PIvhNlML_h8"><span style="color:tomato;">VIDEO OF LIVE SESSION</span></a></b></td>
     </tr>    
     <tr>
       <td>11:10</td>
@@ -129,12 +131,16 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td>12:10</td>
       <td>Mathias Gehrig</td>
-      <td><a href="https://dsec.ifi.uzh.ch/cvpr-2021-competition-results/">DSEC competition</a></td>
+      <td><a href="https://dsec.ifi.uzh.ch/cvpr-2021-competition-results/">DSEC competition</a>,
+      <b><a href="https://youtu.be/xSidegLg0Ik"><span style="color:tomato;">VIDEO OF LIVE SESSION</span></a></b>
+      </td>
     </tr>
     <tr>
       <td>12:20</td>
       <td></td>
-      <td><a hred="https://docs.google.com/presentation/d/1YS5RhClP6uyuGbep7q2KwuPvA93nEgvesyKxe8NW_2U/edit?usp=sharing">Award Ceremony</a></td>
+      <td><a hred="https://docs.google.com/presentation/d/1YS5RhClP6uyuGbep7q2KwuPvA93nEgvesyKxe8NW_2U/edit?usp=sharing">Award Ceremony</a>,
+        <b><a href="https://youtu.be/sUJe7pVP5E8"><span style="color:tomato;">VIDEO OF LIVE SESSION</span></a></b>
+      </td>
     </tr>
     <tr>
       <td bgcolor="LemonChiffon">12:30</td>
@@ -198,7 +204,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td bgcolor="LightGray">14:00</td>
       <td bgcolor="LightGray"><b>SESSION 3</b></td>
-      <td bgcolor="LightGray"></td>
+      <td bgcolor="LightGray"><b><a href="https://youtu.be/ER8S_EhylVM"><span style="color:tomato;">VIDEO OF LIVE SESSION</span></a></b></td>
     </tr>    
     <tr>
       <td>14:00</td>
@@ -242,7 +248,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td bgcolor="LightGray">15:00</td>
       <td bgcolor="LightGray"><b>SESSION 4</b></td>
-      <td bgcolor="LightGray"></td>
+      <td bgcolor="LightGray"><b><a href="https://youtu.be/oPXOUdk5f-U"><span style="color:tomato;">VIDEO OF LIVE SESSION</span></a></b></td>
     </tr>    
     <tr>
       <td>15:00</td>
