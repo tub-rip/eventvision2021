@@ -6,9 +6,6 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 <b>Welcome to the Third International Workshop on Event-Based Vision!</b>  
 
-# [YouTube Live Streaming](https://youtu.be/YyXi8EC2bM0)
-
-
 ## Pre-recorded videos
 <b><a href="https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7"><span style="color:tomato;"> WATCH HERE all videos! (YouTube Playlist)</span></a></b>
 
