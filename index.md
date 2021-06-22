@@ -256,7 +256,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
         <br>(Co-founder and CEO of Prophesee)</td>
       <td>From the lab to the real world: event-based vision evolves as a commercial force.
         <b><a href="https://youtu.be/CFdwBVawVkM"><span style="color:tomato;">Video</span></a>, 
-        <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Prophesee_Luca_Verre.pdf.pdf"><span style="color:tomato;">Slides </span></a></b>
+        <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Prophesee_Luca_Verre.pdf"><span style="color:tomato;">Slides </span></a></b>
       </td>
     </tr>
     <tr>
