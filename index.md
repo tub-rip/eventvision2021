@@ -138,7 +138,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
     <tr>
       <td>12:20</td>
       <td></td>
-      <td><a hred="https://docs.google.com/presentation/d/1YS5RhClP6uyuGbep7q2KwuPvA93nEgvesyKxe8NW_2U/edit?usp=sharing">Award Ceremony</a>,
+      <td><a href="https://docs.google.com/presentation/d/1YS5RhClP6uyuGbep7q2KwuPvA93nEgvesyKxe8NW_2U/edit?usp=sharing">Award Ceremony</a>,
         <b><a href="https://youtu.be/sUJe7pVP5E8">VIDEO OF LIVE SESSION</a></b>
       </td>
     </tr>
