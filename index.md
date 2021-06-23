@@ -46,7 +46,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
       <td><a href="https://mirm-pitt.net/our-people/faculty-staff-bios/ryad-benosman-phd/">Ryad Benosman</a>
       <br>(University of Pittsburgh, CMU, Sorbonne)</td>
       <td>Event Computer Vision 10 years Assessment: Where We Came From, Where We Are and Where We Are Heading To. 
-      <b><a href="https://youtu.be/LdfMTDS9rqI"><span style="color:tomato;">Video</span></a></b>
+      <b><a href="https://youtu.be/LdfMTDS9rqI"><span style="color:tomato;">Video</span></a>, 
+        <a href="https://tub-rip.github.io/eventvision2021/slides/CVPRW21_Ryad_Benosman.pdf"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
